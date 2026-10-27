@@ -1,0 +1,116 @@
+/* ===================================================================
+   Fondo vivo (bg.js) + asistente (chat.js)
+   =================================================================== */
+
+/* El lienzo va fijo detrás de todo; las secciones claras se vuelven un poco translúcidas para que se vea */
+.bg-grid{position:fixed;inset:0;z-index:-1;pointer-events:none}
+body{background:transparent}
+html{background:#fff}
+.section--enamel,.section--bento{background-color:rgba(238,243,245,.8)}
+.page-hero{background-color:rgba(238,243,245,.78)}
+.hero{background-image:var(--grain-dark),linear-gradient(180deg,rgba(255,255,255,.55) 0%,rgba(238,243,245,.85) 100%)}
+.facts-strip{background:rgba(255,255,255,.9)}
+
+/* ---------- Botón que abre el asistente ---------- */
+.chat-launch{position:fixed;right:96px;bottom:30px;z-index:60;display:inline-flex;align-items:center;gap:10px;height:46px;padding:0 18px 0 6px;border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--ink);font-weight:650;font-size:.95rem;cursor:pointer;box-shadow:0 14px 34px -16px rgba(28,43,51,.55);transition:transform .25s var(--ease),box-shadow .25s}
+.chat-launch:hover{transform:translateY(-2px);box-shadow:0 18px 40px -16px rgba(28,43,51,.6)}
+.chat-launch-ico{width:34px;height:34px;border-radius:50%;background:var(--ink);color:#fff;display:grid;place-items:center}
+.chat-launch-ico .ico{width:19px;height:19px}
+.chat-open .chat-launch{opacity:0;pointer-events:none;transform:translateY(8px)}
+.mobile-chat{padding:0;width:52px;min-width:52px}
+.mobile-chat .ico{width:22px;height:22px}
+
+/* ---------- Panel ---------- */
+.chat{position:fixed;right:22px;bottom:96px;z-index:70;width:min(392px,calc(100vw - 32px));height:min(620px,calc(100vh - 140px));display:flex;flex-direction:column;background:#fff;border-radius:24px;overflow:hidden;box-shadow:0 30px 80px -24px rgba(28,43,51,.55),0 0 0 1px rgba(28,43,51,.08);transform-origin:bottom right}
+.chat[hidden]{display:none}
+@media all{
+  .chat:not([hidden]){animation:chat-in .38s var(--ease)}
+  @keyframes chat-in{from{opacity:0;transform:translateY(14px) scale(.96)}}
+}
+.chat-head{display:flex;align-items:center;gap:12px;padding:14px 12px 14px 16px;background:var(--ink);background-image:var(--grain-light);color:#fff}
+.chat-head img{border-radius:12px;flex:none}
+.chat-who{flex:1;min-width:0}
+.chat-t{margin:0;font-style:italic;font-stretch:86%;font-weight:800;font-size:1.12rem;line-height:1.1}
+.chat-s{margin:3px 0 0;display:flex;align-items:center;gap:7px;font-size:.8rem;color:#9fb5be}
+.chat-icon-btn{width:36px;height:36px;border-radius:50%;border:0;background:rgba(255,255,255,.08);color:#fff;display:grid;place-items:center;cursor:pointer;flex:none}
+.chat-icon-btn:hover{background:rgba(255,255,255,.16)}
+.chat-icon-btn .ico{width:18px;height:18px}
+.chat-log{flex:1;overflow-y:auto;padding:16px 14px 6px;display:flex;flex-direction:column;gap:8px;background:var(--enamel);background-image:var(--grain-dark);overscroll-behavior:contain}
+.msg{display:flex;flex-direction:column;gap:6px;max-width:86%}
+.msg--bot{align-self:flex-start}
+.msg--user{align-self:flex-end;align-items:flex-end}
+.msg-b{padding:10px 14px;border-radius:18px;font-size:.95rem;line-height:1.45}
+.msg--bot .msg-b{background:#fff;border-bottom-left-radius:6px;color:var(--ink);box-shadow:0 1px 2px rgba(28,43,51,.06)}
+.msg--user .msg-b{background:var(--teal);color:#fff;border-bottom-right-radius:6px}
+.msg-b a{color:var(--teal-deep);font-weight:650}
+.msg-cta{align-self:flex-start}
+.msg-links{display:flex;flex-wrap:wrap;gap:6px}
+.msg-links a{font-size:.86rem;font-weight:650;color:var(--teal-deep);text-decoration:none;padding:5px 11px;border-radius:999px;background:#fff;border:1px solid var(--line)}
+.msg-links a:hover{border-color:var(--teal)}
+@media all{
+  .msg{animation:msg-in .32s var(--ease)}
+  @keyframes msg-in{from{opacity:0;transform:translateY(8px)}}
+}
+.typing{display:inline-flex;gap:4px;padding:13px 14px}
+.typing span{width:7px;height:7px;border-radius:50%;background:#9fb3bb;animation:typing 1s infinite}
+.typing span:nth-child(2){animation-delay:.15s}.typing span:nth-child(3){animation-delay:.3s}
+@keyframes typing{0%,60%,100%{transform:translateY(0);opacity:.5}30%{transform:translateY(-4px);opacity:1}}
+.chat-chips{display:flex;gap:6px;padding:8px 12px;overflow-x:auto;background:var(--enamel);scrollbar-width:none;flex-wrap:nowrap}
+.chat-chips:empty{display:none}
+.chat-chips::-webkit-scrollbar{display:none}
+.qr{flex:none;min-height:36px;padding:6px 13px;border-radius:999px;border:1.5px solid var(--teal);background:#fff;color:var(--teal-deep);font-weight:650;font-size:.88rem;cursor:pointer;white-space:nowrap}
+.qr:hover{background:var(--teal-soft)}
+.chat-form{display:flex;gap:8px;padding:10px 12px;border-top:1px solid var(--line);background:#fff}
+.chat-input{flex:1;min-width:0;height:44px;padding:0 14px;border-radius:999px;border:1.5px solid var(--line);font-size:16px;background:var(--enamel)}
+.chat-input:focus{outline:0;border-color:var(--teal);background:#fff}
+.chat-send{width:44px;height:44px;border-radius:50%;border:0;background:var(--ink);color:#fff;display:grid;place-items:center;cursor:pointer;flex:none}
+.chat-send .ico{width:20px;height:20px}
+.chat-foot{margin:0;padding:0 14px 10px;font-size:.76rem;color:var(--muted);background:#fff;text-align:center}
+
+@media (max-width:960px){
+  .chat-launch{display:none}
+  .chat{right:0;left:0;bottom:0;top:auto;width:100%;height:calc(100% - 56px);max-height:none;border-radius:22px 22px 0 0;transform-origin:bottom center}
+  .chat-open .mobile-bar{display:none}
+  .mobile-bar{grid-template-columns:auto auto 1fr}
+}
+@media (max-width:400px){.mobile-bar .btn--line:not(.mobile-chat){padding-inline:12px}}
+
+/* ---------- Test de usuario: objetivos táctiles y letra en celular (mínimo 44 px / 14 px) ---------- */
+@media (max-width:960px){
+  .topbar a{display:inline-flex;align-items:center;min-height:40px}
+  .zone-list a,.zone-list span{min-height:44px;display:inline-flex;align-items:center}
+  .crumbs a{display:inline-flex;align-items:center;min-height:40px}
+  .textlink{min-height:44px}
+  .footer ul{gap:0}
+  .footer ul a,.footer-contact a{display:inline-flex;align-items:center;min-height:42px}
+  .app-tile{font-size:.86rem}
+  .post-meta,.post-meta time{font-size:.9rem}
+  .prose a{padding-block:6px}
+}
+
+/* ---------- Test de usuario: arreglos ---------- */
+.mp-avatar{width:38px;height:38px;flex:none;border-radius:12px}
+.wa-teaser-who .mp-avatar{width:34px;height:34px}
+.indep{display:inline-flex;align-items:center;gap:8px;margin:-6px 0 18px;padding:8px 14px;border-radius:999px;background:#fff;border:1px solid var(--line);font-size:.92rem;font-weight:600;color:var(--slate)}
+.indep .ico{width:18px;height:18px;color:var(--teal-deep);flex:none}
+.company-card{padding:24px;border-radius:var(--r-lg);background:#fff;border:1px solid var(--line);display:grid;gap:16px}
+.company-card h3{font-size:1.3rem}
+.company-card dl{margin:0;display:grid;gap:0}
+.company-card dl div{display:grid;grid-template-columns:130px 1fr;gap:12px;padding:11px 0;border-top:1px solid var(--line)}
+.company-card dt{color:var(--muted);font-size:.92rem}
+.company-card dd{margin:0;font-weight:600;color:var(--ink)}
+.chat-chips{flex-wrap:wrap;max-height:136px;overflow-y:auto;overflow-x:hidden}
+.footer-mark{margin-top:6px}
+.mobile-chat{width:auto;min-width:0;padding:0 14px;gap:6px}
+@media (max-width:960px){
+  .cov-svg .lbl-zn{display:none}
+  .mobile-bar{grid-template-columns:auto auto 1fr;gap:6px}
+  .mobile-bar .btn{padding-inline:12px}
+}
+@media (max-width:640px){
+  /* las tarjetas apiladas confundían en celular (se veían pisadas): van una debajo de la otra */
+  .stack-card{position:relative;top:auto}
+  .stack-card:not(.stack-card--cta){animation:none!important;filter:none}
+  .company-card dl div{grid-template-columns:1fr;gap:2px}
+}
+@media (max-width:380px){.mobile-bar .hide-xs{display:none}.mobile-chat{padding:0 10px}}

@@ -1,0 +1,206 @@
+/* ===================================================================
+   Pasada 3: diseño y animación de vanguardia.
+   Mejora progresiva: sin soporte (Firefox para scroll-driven, etc.) se ve el estado final.
+   =================================================================== */
+
+/* ---------- Pulido global ---------- */
+:root{
+  accent-color:var(--teal);
+  interpolate-size:allow-keywords;
+  --grain-light:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .075 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --grain-dark:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --ink-2:#233842;
+}
+p,li,blockquote{text-wrap:pretty}
+.fault,.product,.post-card,.tip,.bento-cell,.contact-card,.quote,.stack-card{corner-shape:squircle}
+@supports (corner-shape:squircle){.fault,.product,.post-card,.tip,.contact-card,.quote{border-radius:26px}.bento-cell,.stack-card{border-radius:34px}}
+
+/* Grano: estático, como textura de papel o chapa */
+.section--ink,.cta,.footer{background-image:var(--grain-light)}
+.hero{background-image:var(--grain-dark),linear-gradient(180deg,#fff 0%,var(--enamel) 100%)}
+.page-hero,.section--enamel{background-image:var(--grain-dark)}
+
+/* ---------- Tratamiento de fotos de marca ---------- */
+.tone,.page-hero-media,.article-cover{position:relative;overflow:hidden}
+.tone img,.page-hero-media img,.article-cover img{filter:saturate(.8) contrast(1.07) brightness(1.02)}
+.tone::after,.page-hero-media::after,.article-cover::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;background:linear-gradient(155deg,rgba(40,158,186,.16) 0%,rgba(40,158,186,0) 45%,rgba(28,43,51,.3) 100%);mix-blend-mode:multiply}
+.article-cover{border-radius:var(--r-lg);padding:0}
+.article-cover img{border-radius:0}
+
+/* ---------- Bento "por qué nos eligen" ---------- */
+.section--bento{background-color:var(--enamel)}
+.bento{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));grid-auto-rows:minmax(190px,auto);gap:14px;grid-template-areas:"y y v v" "y y p w" "r r m m"}
+.bento-cell{position:relative;border-radius:26px;background:#fff;border:1px solid var(--line);padding:24px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;gap:6px;color:var(--ink);text-decoration:none}
+.bento-cell h3{font-size:1.3rem}
+.bento-cell p{margin:0;color:var(--slate);font-size:.97rem}
+.b-years{grid-area:y;min-height:400px;color:#fff;border:0;background:var(--ink)}
+.b-years img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.b-years::after{background:linear-gradient(180deg,rgba(28,43,51,0) 25%,rgba(28,43,51,.88) 100%);mix-blend-mode:normal}
+.b-years-txt{position:relative;z-index:1}
+.b-years-txt p{color:#dfe8ec;max-width:24em}
+.bento-cell .b-big{font-style:italic;font-stretch:78%;font-weight:850;font-size:clamp(5rem,3rem + 7vw,9.5rem);line-height:.82;letter-spacing:-.03em;margin:0 0 10px!important;color:#fff!important;display:flex;align-items:baseline;gap:.12em}
+.b-unit{font-size:.38em;letter-spacing:0;color:#7fd3e6}
+.bento-cell .b-big--sm{font-size:2.6rem!important;color:var(--ink)!important;margin:12px 0 2px!important}
+.b-visit{grid-area:v;justify-content:space-between}
+.b-parts{grid-area:p}.b-warranty{grid-area:w}
+.b-reviews{grid-area:r;background:var(--teal-soft);border-color:#bfe3ec;justify-content:center}
+.b-reviews p{color:var(--ink)}
+.b-reviews .stars .ico{width:20px;height:20px}
+.b-pay{grid-area:m}
+.b-ico{width:54px;height:54px;border-radius:16px;background:var(--enamel);display:grid;place-items:center;color:var(--teal-deep);margin-bottom:auto}
+.b-ico .ico{width:28px;height:28px;transition:transform .5s var(--ease)}
+.b-parts:hover .b-ico .ico{transform:rotate(-35deg)}
+.b-warranty:hover .b-ico .ico,.b-pay:hover .b-ico .ico{transform:translateY(-3px) scale(1.08)}
+.b-route{width:100%;height:auto;max-height:110px}
+.b-route-line{fill:none;stroke:var(--teal);stroke-width:2.5;stroke-dasharray:7 8;stroke-linecap:round;animation:dash-flow 1.4s linear infinite}
+@keyframes dash-flow{to{stroke-dashoffset:-30}}
+.b-route-a{fill:var(--ink)}
+.b-route-b circle{fill:var(--teal)}
+.b-van rect,.b-van circle{fill:var(--ink)}
+.b-van circle{stroke:#fff;stroke-width:1.5}
+
+/* ---------- Cómo es el service: oscuro con tarjetas apiladas ---------- */
+.section--process{position:relative}
+.process2{display:grid;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);gap:clamp(32px,5vw,80px);align-items:start}
+.process2-side{position:sticky;top:110px}
+.process2 .process-photo{aspect-ratio:4/3.1;margin-top:26px;border-radius:26px}
+.stack{list-style:none;margin:0;padding:0 0 4vh;display:grid;gap:20px}
+.stack-card{position:sticky;top:calc(116px + var(--i) * 18px);display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto 1fr;gap:6px 20px;min-height:230px;padding:30px;border-radius:30px;background:linear-gradient(180deg,#2a4250,var(--ink-2));border:1px solid rgba(255,255,255,.08);box-shadow:0 -18px 40px -24px rgba(0,0,0,.7)}
+.stack-n{grid-row:1/4;font-style:italic;font-stretch:78%;font-weight:850;font-size:clamp(3.6rem,2.6rem + 3vw,5.6rem);line-height:.8;color:transparent;-webkit-text-stroke:1.5px rgba(127,211,230,.6)}
+.stack-ico{width:48px;height:48px;border-radius:14px;background:rgba(40,158,186,.18);display:grid;place-items:center;color:#7fd3e6}
+.stack-ico .ico{width:26px;height:26px}
+.stack-card h3{color:#fff;font-size:1.55rem;margin-top:10px}
+.stack-card p{margin:0;color:#b7c7ce;max-width:30em}
+.stack-card--cta{grid-template-columns:1fr;grid-template-rows:auto;align-content:center;justify-items:start;gap:10px;background:linear-gradient(135deg,var(--teal) 0%,#1f7f98 100%);border:0;min-height:200px}
+.stack-card--cta h3{margin:0;font-size:2rem}
+.stack-card--cta p{color:#e3f6fa}
+.stack-card--cta .btn--wa{margin-top:8px}
+
+/* ---------- Marcas sobre oscuro ---------- */
+.section--brands{background-color:var(--ink);color:#c9d6db}
+.section--brands h2{color:#fff}
+.section--brands .section-head p,.section--brands .small{color:#b7c7ce}
+.section--brands .legal{color:#8ea4ad}
+.section--brands .brand-word{-webkit-text-stroke-color:rgba(255,255,255,.5)}
+.section--brands .brand-word:hover,.section--brands .brand-word:focus-visible{color:var(--teal);-webkit-text-stroke-color:var(--teal)}
+.section--brands .brand-sep{border-top-color:#7fd3e6;border-left-color:#7fd3e6}
+.marquee-row,.brand-run{transform:skewX(var(--skew,0deg));will-change:transform}
+
+/* ---------- Sobre el servicio + blog relacionado ---------- */
+.about-svc{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:clamp(28px,5vw,72px);align-items:start}
+.about-svc--solo{grid-template-columns:minmax(0,1fr)}
+.about-svc-text{padding-left:24px;border-left:3px solid var(--teal)}
+.about-svc-text h2{font-size:clamp(1.6rem,1.2rem + 1.4vw,2.2rem);margin-bottom:14px}
+.about-svc-blog h3{font-size:1.25rem}
+.post-list{display:grid;gap:10px}
+.post-card--row{flex-direction:row;align-items:stretch}
+.post-card--row .post-media{width:132px;flex:none;aspect-ratio:auto}
+.post-card--row .post-body{padding:14px 16px;gap:6px}
+.post-card--row h3{font-size:1.05rem}
+
+/* ---------- Índice y progreso de lectura ---------- */
+.article-aside{position:sticky;top:104px;display:grid;gap:16px}
+.article-aside .aside-card{position:static}
+.toc{padding:18px 18px 14px;border-radius:20px;background:var(--enamel)}
+.toc-t{margin:0 0 8px;font-weight:700;font-size:.9rem;color:var(--slate)}
+.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:2px;counter-reset:t}
+.toc a{display:block;padding:7px 10px 7px 14px;border-left:2px solid var(--line);color:var(--slate);text-decoration:none;font-size:.9rem;line-height:1.35;transition:color .2s,border-color .2s,background-color .2s}
+.toc a:hover{color:var(--ink)}
+.toc a.is-active{color:var(--ink);border-left-color:var(--teal);background:#fff;border-radius:0 10px 10px 0;font-weight:600}
+.read-progress{position:fixed;left:0;top:0;width:100%;height:3px;z-index:95;background:linear-gradient(90deg,var(--teal),#7fd3e6);transform-origin:0 50%;transform:scaleX(var(--rp,0))}
+.prose h2[id]{scroll-margin-top:110px}
+
+/* ---------- Manifiesto (Nosotros) ---------- */
+.manifesto-band{padding-block:clamp(72px,10vw,150px)}
+.manifesto{margin:0;max-width:22em;font-style:italic;font-stretch:84%;font-weight:800;font-size:clamp(1.9rem,1.1rem + 3.2vw,3.6rem);line-height:1.1;letter-spacing:-.01em;color:#fff;text-wrap:balance}
+
+/* ---------- Pie con tipografía gigante ---------- */
+.footer{overflow:hidden}
+.footer-mark{margin-top:-30px;line-height:.78;pointer-events:none;user-select:none;text-align:center;padding-bottom:calc(64px + env(safe-area-inset-bottom))}
+.footer-mark span{display:inline-block;font-style:italic;font-stretch:76%;font-weight:900;font-size:16.2vw;letter-spacing:-.02em;word-spacing:.12em;color:transparent;-webkit-text-stroke:1.5px rgba(127,211,230,.28);background:linear-gradient(180deg,rgba(40,158,186,.22),rgba(40,158,186,0) 70%);-webkit-background-clip:text;background-clip:text;white-space:nowrap}
+.footer-bottom{padding-bottom:22px}
+
+/* ---------- Botón principal del armador: borde que gira ---------- */
+@property --ang{syntax:"<angle>";inherits:false;initial-value:0deg}
+#c-enviar{border:2px solid transparent;background:linear-gradient(var(--wa),var(--wa)) padding-box,conic-gradient(from var(--ang),#25d366 0 55%,#d9fbe7 68%,#289eba 80%,#25d366 92%) border-box}
+#c-enviar:hover{background:linear-gradient(var(--wa-hover),var(--wa-hover)) padding-box,conic-gradient(from var(--ang),#25d366 0 55%,#d9fbe7 68%,#289eba 80%,#25d366 92%) border-box}
+
+/* ---------- FAQ que se abre suave ---------- */
+.faq details::details-content{block-size:0;overflow:clip;transition:block-size .4s var(--ease),content-visibility .4s allow-discrete}
+.faq details[open]::details-content{block-size:auto}
+
+/* ---------- Vista previa que sigue al cursor (lista de electrodomésticos) ---------- */
+.peek{position:fixed;left:0;top:0;z-index:45;width:240px;aspect-ratio:4/3;border-radius:20px;overflow:hidden;pointer-events:none;opacity:0;box-shadow:0 30px 60px -20px rgba(28,43,51,.55);transform:translate3d(var(--px,0),var(--py,0),0) translate(-50%,-115%) rotate(var(--rot,-3deg)) scale(.86);transition:opacity .25s,scale .35s var(--ease)}
+.peek.on{opacity:1;scale:1.16}
+.peek img{width:100%;height:100%;object-fit:cover;filter:saturate(.8) contrast(1.07)}
+
+/* ---------- Solo con mouse: brillo en el borde de las tarjetas ---------- */
+@media (hover:hover) and (pointer:fine){
+  .fault,.product,.post-card,.bento-cell,.tip,.contact-card,.quote{position:relative}
+  :is(.fault,.product,.post-card,.bento-cell,.tip,.contact-card,.quote)::before{content:"";position:absolute;inset:0;z-index:3;border-radius:inherit;corner-shape:inherit;padding:1.5px;background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),rgba(40,158,186,.95),rgba(40,158,186,0) 70%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:opacity .3s;pointer-events:none}
+  :is(.fault,.product,.post-card,.bento-cell,.tip,.contact-card,.quote):hover::before{opacity:1}
+  .fault:hover::before{background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),rgba(37,211,102,.95),rgba(37,211,102,0) 70%)}
+}
+
+/* ===================================================================
+   Animación (solo si el usuario no pidió reducir movimiento)
+   =================================================================== */
+@media (prefers-reduced-motion:no-preference){
+  #c-enviar{animation:ang 4.5s linear infinite}
+  @keyframes ang{to{--ang:360deg}}
+
+  /* Morph entre páginas: el ícono de la tarjeta vuela al hero */
+  ::view-transition-group(*){animation-duration:.55s;animation-timing-function:cubic-bezier(.2,.7,.2,1)}
+
+  @supports (animation-timeline:view()){
+    /* Las tarjetas suben al entrar, ligadas al scroll (el compositor las mueve sin JS) */
+    .appliance,.fault,.product,.post-card,.tip,.bento-cell,.checks li,.contact-card,.faq details,.zones>div,.office{animation:sd-rise linear both;animation-timeline:view();animation-range:entry 0% entry 55%}
+    @keyframes sd-rise{from{opacity:0;transform:translateY(36px) scale(.97)}}
+    .bento-cell:nth-child(2n){animation-range:entry 8% entry 62%}
+
+    /* Parallax suave de fotos */
+    .page-hero-media img,.process-photo img,.article-cover img,.b-years img{animation:sd-zoom linear both;animation-timeline:view();animation-range:cover 0% cover 100%}
+    @keyframes sd-zoom{from{transform:scale(1.16) translateY(-4%)}to{transform:scale(1.04) translateY(4%)}}
+
+    /* Cabecera que se compacta */
+    .header .wrap{animation:hdr linear both;animation-timeline:scroll(root);animation-range:0 160px}
+    .header .brand img{animation:hdr-logo linear both;animation-timeline:scroll(root);animation-range:0 160px}
+    @keyframes hdr{to{min-height:62px}}
+    @keyframes hdr-logo{to{width:96px}}
+
+    /* Progreso de lectura */
+    .read-progress{animation:rp linear both;animation-timeline:scroll(root)}
+    @keyframes rp{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+
+    /* Pie: la marca gigante sube al llegar al final */
+    .footer-mark span{animation:mark-up linear both;animation-timeline:view();animation-range:entry 0% entry 100%}
+    @keyframes mark-up{from{transform:translateY(55%);opacity:.15}}
+
+    /* Manifiesto: cada palabra se enciende al pasar */
+    .manifesto span{animation:word linear both;animation-timeline:view();animation-range:cover calc(18% + var(--i) * 1.1%) cover calc(24% + var(--i) * 1.1%)}
+    @keyframes word{from{opacity:.16}}
+
+    /* Tarjetas apiladas: las de atrás se oscurecen al quedar tapadas */
+    .stack-card:not(.stack-card--cta){animation:stack-dim linear both;animation-timeline:view();animation-range:exit-crossing 0% exit-crossing 100%}
+    @keyframes stack-dim{to{filter:brightness(.7)}}
+  }
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width:960px){
+  .bento{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-areas:"y y" "v v" "p w" "r r" "m m";grid-auto-rows:minmax(170px,auto)}
+  .b-years{min-height:340px}
+  .process2{grid-template-columns:minmax(0,1fr)}
+  .process2-side{position:static}
+  .stack-card{top:calc(84px + var(--i) * 12px);min-height:200px;padding:24px}
+  .about-svc{grid-template-columns:minmax(0,1fr)}
+  .article-aside{position:static}
+  .toc{display:none}
+  .peek{display:none}
+}
+@media (max-width:640px){
+  .stack-card{grid-template-columns:1fr;grid-template-rows:auto}
+  .stack-n{grid-row:auto;font-size:3rem}
+  .bento-cell{padding:20px}
+  .footer-mark span{-webkit-text-stroke-width:1px}
+}

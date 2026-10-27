@@ -1,0 +1,23 @@
+# salida del build (se regenera con: node build.mjs)
+dist/
+dist-preview/
+*.zip
+# fotos originales de los técnicos (tienen la ubicación GPS de las casas) y pasos intermedios pesados
+content/real-raw/
+content/real-clean/
+content/real-pro/
+content/real/
+content/gen/
+scrape/
+# pruebas locales
+tools/shots/
+notas/lh/
+.netlify/
+.claude/
+node_modules/
+*.log
+
+# internos (no van en el repo público)
+notas/
+content/real-candidatas.json
+content/BRIEF-contenido.md

@@ -1,0 +1,4711 @@
+{
+ "2024_04_aire3.webp": {
+  "base": "aire3",
+  "w": 600,
+  "h": 400,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 600,
+    "h": 400,
+    "file": "aire3-600.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "aire3-480.webp"
+   }
+  ]
+ },
+ "2024_04_heladeras1.webp": {
+  "base": "heladeras1",
+  "w": 444,
+  "h": 601,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 444,
+    "h": 601,
+    "file": "heladeras1-444.webp"
+   }
+  ]
+ },
+ "2024_05_Lavavajilla-s1.webp": {
+  "base": "lavavajilla-s1",
+  "w": 437,
+  "h": 570,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 437,
+    "h": 570,
+    "file": "lavavajilla-s1-437.webp"
+   }
+  ]
+ },
+ "2024_05_aire-acondicionado-lg-mp-group.png": {
+  "base": "aire-acondicionado-lg-mp-group",
+  "w": 600,
+  "h": 400,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 600,
+    "h": 400,
+    "file": "aire-acondicionado-lg-mp-group-600.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "aire-acondicionado-lg-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_05_aire-s1.webp": {
+  "base": "aire-s1",
+  "w": 600,
+  "h": 234,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 600,
+    "h": 234,
+    "file": "aire-s1-600.webp"
+   }
+  ]
+ },
+ "2024_05_ariston01.webp": {
+  "base": "ariston01",
+  "w": 267,
+  "h": 390,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 267,
+    "h": 390,
+    "file": "ariston01-267.webp"
+   }
+  ]
+ },
+ "2024_05_ariston02.webp": {
+  "base": "ariston02",
+  "w": 396,
+  "h": 395,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 396,
+    "h": 395,
+    "file": "ariston02-396.webp"
+   }
+  ]
+ },
+ "2024_05_ariston03.webp": {
+  "base": "ariston03",
+  "w": 146,
+  "h": 239,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 146,
+    "h": 239,
+    "file": "ariston03-146.webp"
+   }
+  ]
+ },
+ "2024_05_calefon-orbis-no-enciende.jpg": {
+  "base": "calefon-orbis-no-enciende",
+  "w": 1500,
+  "h": 1000,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1500,
+    "h": 1000,
+    "file": "calefon-orbis-no-enciende-1500.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "calefon-orbis-no-enciende-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "calefon-orbis-no-enciende-480.webp"
+   }
+  ]
+ },
+ "2024_05_consejos-para-mantener-tu-lavarropa-samsung-MP-Group.jpg": {
+  "base": "consejos-para-mantener-tu-lavarropa-samsung-mp-group",
+  "w": 1500,
+  "h": 1000,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1500,
+    "h": 1000,
+    "file": "consejos-para-mantener-tu-lavarropa-samsung-mp-group-1500.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "consejos-para-mantener-tu-lavarropa-samsung-mp-group-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "consejos-para-mantener-tu-lavarropa-samsung-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_05_domec01.webp": {
+  "base": "domec01",
+  "w": 146,
+  "h": 373,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 146,
+    "h": 373,
+    "file": "domec01-146.webp"
+   }
+  ]
+ },
+ "2024_05_domec02.webp": {
+  "base": "domec02",
+  "w": 305,
+  "h": 308,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 305,
+    "h": 308,
+    "file": "domec02-305.webp"
+   }
+  ]
+ },
+ "2024_05_domec03.webp": {
+  "base": "domec03",
+  "w": 110,
+  "h": 206,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 110,
+    "h": 206,
+    "file": "domec03-110.webp"
+   }
+  ]
+ },
+ "2024_05_domec04.webp": {
+  "base": "domec04",
+  "w": 127,
+  "h": 215,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 127,
+    "h": 215,
+    "file": "domec04-127.webp"
+   }
+  ]
+ },
+ "2024_05_electrolux01.webp": {
+  "base": "electrolux01",
+  "w": 141,
+  "h": 212,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 141,
+    "h": 212,
+    "file": "electrolux01-141.webp"
+   }
+  ]
+ },
+ "2024_05_electrolux02.webp": {
+  "base": "electrolux02",
+  "w": 103,
+  "h": 261,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 103,
+    "h": 261,
+    "file": "electrolux02-103.webp"
+   }
+  ]
+ },
+ "2024_05_electrolux03.webp": {
+  "base": "electrolux03",
+  "w": 147,
+  "h": 275,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 147,
+    "h": 275,
+    "file": "electrolux03-147.webp"
+   }
+  ]
+ },
+ "2024_05_fondo-cta-lavarropas.webp": {
+  "base": "fondo-cta-lavarropas",
+  "w": 1920,
+  "h": 1281,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1068,
+    "file": "fondo-cta-lavarropas-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "fondo-cta-lavarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "fondo-cta-lavarropas-480.webp"
+   }
+  ]
+ },
+ "2024_05_fondo-cta01.webp": {
+  "base": "fondo-cta01",
+  "w": 1920,
+  "h": 1281,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1068,
+    "file": "fondo-cta01-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "fondo-cta01-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "fondo-cta01-480.webp"
+   }
+  ]
+ },
+ "2024_05_fondo-mp-11.webp": {
+  "base": "fondo-mp-11",
+  "w": 900,
+  "h": 900,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 900,
+    "file": "fondo-mp-11-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "fondo-mp-11-480.webp"
+   }
+  ]
+ },
+ "2024_05_fondo-secarropas-hero.webp": {
+  "base": "fondo-secarropas-hero",
+  "w": 1920,
+  "h": 966,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 805,
+    "file": "fondo-secarropas-hero-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 453,
+    "file": "fondo-secarropas-hero-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 242,
+    "file": "fondo-secarropas-hero-480.webp"
+   }
+  ]
+ },
+ "2024_05_heladera-lg-mp-group.png": {
+  "base": "heladera-lg-mp-group",
+  "w": 404,
+  "h": 600,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 404,
+    "h": 600,
+    "file": "heladera-lg-mp-group-404.webp"
+   }
+  ]
+ },
+ "2024_05_heladeras-s1.webp": {
+  "base": "heladeras-s1",
+  "w": 139,
+  "h": 300,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 139,
+    "h": 300,
+    "file": "heladeras-s1-139.webp"
+   }
+  ]
+ },
+ "2024_05_hero-aa2.webp": {
+  "base": "hero-aa2",
+  "w": 1920,
+  "h": 902,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 752,
+    "file": "hero-aa2-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 423,
+    "file": "hero-aa2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 226,
+    "file": "hero-aa2-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-ariston.webp": {
+  "base": "hero-ariston",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-ariston-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-ariston-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-ariston-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-calefon.webp": {
+  "base": "hero-calefon",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-calefon-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-calefon-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-calefon-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-contacto.webp": {
+  "base": "hero-contacto",
+  "w": 1920,
+  "h": 757,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 631,
+    "file": "hero-contacto-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 355,
+    "file": "hero-contacto-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 189,
+    "file": "hero-contacto-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-domec.webp": {
+  "base": "hero-domec",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-domec-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-domec-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-domec-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-electrolux.webp": {
+  "base": "hero-electrolux",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-electrolux-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-electrolux-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-electrolux-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-estufas.webp": {
+  "base": "hero-estufas",
+  "w": 1920,
+  "h": 960,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 800,
+    "file": "hero-estufas-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 450,
+    "file": "hero-estufas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 240,
+    "file": "hero-estufas-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-heladera.webp": {
+  "base": "hero-heladera",
+  "w": 1920,
+  "h": 935,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 779,
+    "file": "hero-heladera-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 438,
+    "file": "hero-heladera-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 234,
+    "file": "hero-heladera-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-hyc.webp": {
+  "base": "hero-hyc",
+  "w": 1920,
+  "h": 900,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 750,
+    "file": "hero-hyc-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-hyc-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-hyc-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-lavarropas-scaled.webp": {
+  "base": "hero-lavarropas",
+  "w": 2560,
+  "h": 1735,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1084,
+    "file": "hero-lavarropas-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 610,
+    "file": "hero-lavarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 325,
+    "file": "hero-lavarropas-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-lavavajillas.webp": {
+  "base": "hero-lavavajillas",
+  "w": 1920,
+  "h": 1280,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1067,
+    "file": "hero-lavavajillas-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "hero-lavavajillas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "hero-lavavajillas-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-longvie.webp": {
+  "base": "hero-longvie",
+  "w": 1920,
+  "h": 899,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 749,
+    "file": "hero-longvie-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 421,
+    "file": "hero-longvie-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-longvie-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-nosotros.webp": {
+  "base": "hero-nosotros",
+  "w": 1920,
+  "h": 900,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 750,
+    "file": "hero-nosotros-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-nosotros-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-nosotros-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-orbis.webp": {
+  "base": "hero-orbis",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-orbis-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-orbis-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-orbis-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-termo.webp": {
+  "base": "hero-termo",
+  "w": 1920,
+  "h": 901,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 751,
+    "file": "hero-termo-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 422,
+    "file": "hero-termo-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 225,
+    "file": "hero-termo-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero-trabaja.webp": {
+  "base": "hero-trabaja",
+  "w": 1920,
+  "h": 700,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 583,
+    "file": "hero-trabaja-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 328,
+    "file": "hero-trabaja-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 175,
+    "file": "hero-trabaja-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero1-1.webp": {
+  "base": "hero1-1",
+  "w": 1920,
+  "h": 920,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 767,
+    "file": "hero1-1-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 431,
+    "file": "hero1-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 230,
+    "file": "hero1-1-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero2-2.webp": {
+  "base": "hero2-2",
+  "w": 1920,
+  "h": 920,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 767,
+    "file": "hero2-2-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 431,
+    "file": "hero2-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 230,
+    "file": "hero2-2-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero3-3.webp": {
+  "base": "hero3-3",
+  "w": 1920,
+  "h": 921,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 768,
+    "file": "hero3-3-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 432,
+    "file": "hero3-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 230,
+    "file": "hero3-3-480.webp"
+   }
+  ]
+ },
+ "2024_05_hero4.webp": {
+  "base": "hero4",
+  "w": 1920,
+  "h": 909,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 758,
+    "file": "hero4-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 426,
+    "file": "hero4-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 227,
+    "file": "hero4-480.webp"
+   }
+  ]
+ },
+ "2024_05_lavarropas-lg-mp-group.png": {
+  "base": "lavarropas-lg-mp-group",
+  "w": 808,
+  "h": 1085,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 808,
+    "h": 1085,
+    "file": "lavarropas-lg-mp-group-808.webp"
+   },
+   {
+    "w": 480,
+    "h": 645,
+    "file": "lavarropas-lg-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_05_lavarropas-s1.webp": {
+  "base": "lavarropas-s1",
+  "w": 226,
+  "h": 300,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 226,
+    "h": 300,
+    "file": "lavarropas-s1-226.webp"
+   }
+  ]
+ },
+ "2024_05_lavavajillas-lg-mp-group.png": {
+  "base": "lavavajillas-lg-mp-group",
+  "w": 484,
+  "h": 601,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 484,
+    "h": 601,
+    "file": "lavavajillas-lg-mp-group-484.webp"
+   },
+   {
+    "w": 480,
+    "h": 596,
+    "file": "lavavajillas-lg-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_05_longvie01.webp": {
+  "base": "longvie01",
+  "w": 113,
+  "h": 269,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 113,
+    "h": 269,
+    "file": "longvie01-113.webp"
+   }
+  ]
+ },
+ "2024_05_longvie02.webp": {
+  "base": "longvie02",
+  "w": 167,
+  "h": 272,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 167,
+    "h": 272,
+    "file": "longvie02-167.webp"
+   }
+  ]
+ },
+ "2024_05_longvie03.webp": {
+  "base": "longvie03",
+  "w": 192,
+  "h": 274,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 192,
+    "h": 274,
+    "file": "longvie03-192.webp"
+   }
+  ]
+ },
+ "2024_05_longvie04-1.webp": {
+  "base": "longvie04-1",
+  "w": 272,
+  "h": 268,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 272,
+    "h": 268,
+    "file": "longvie04-1-272.webp"
+   }
+  ]
+ },
+ "2024_05_longvie05-1.webp": {
+  "base": "longvie05-1",
+  "w": 266,
+  "h": 323,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 266,
+    "h": 323,
+    "file": "longvie05-1-266.webp"
+   }
+  ]
+ },
+ "2024_05_longvie06.webp": {
+  "base": "longvie06",
+  "w": 160,
+  "h": 263,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 160,
+    "h": 263,
+    "file": "longvie06-160.webp"
+   }
+  ]
+ },
+ "2024_05_mi-heladera-no-frost-no-enfria-consejos-MP-Group.jpg": {
+  "base": "mi-heladera-no-frost-no-enfria-consejos-mp-group",
+  "w": 1500,
+  "h": 1000,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1500,
+    "h": 1000,
+    "file": "mi-heladera-no-frost-no-enfria-consejos-mp-group-1500.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "mi-heladera-no-frost-no-enfria-consejos-mp-group-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "mi-heladera-no-frost-no-enfria-consejos-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_05_orbis01.webp": {
+  "base": "orbis01",
+  "w": 403,
+  "h": 454,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 403,
+    "h": 454,
+    "file": "orbis01-403.webp"
+   }
+  ]
+ },
+ "2024_05_orbis02.webp": {
+  "base": "orbis02",
+  "w": 442,
+  "h": 451,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 442,
+    "h": 451,
+    "file": "orbis02-442.webp"
+   }
+  ]
+ },
+ "2024_05_orbis03.webp": {
+  "base": "orbis03",
+  "w": 155,
+  "h": 272,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 155,
+    "h": 272,
+    "file": "orbis03-155.webp"
+   }
+  ]
+ },
+ "2024_05_orbis04.webp": {
+  "base": "orbis04",
+  "w": 142,
+  "h": 273,
+  "alpha": true,
+  "sizes": [
+   {
+    "w": 142,
+    "h": 273,
+    "file": "orbis04-142.webp"
+   }
+  ]
+ },
+ "2024_05_que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-scaled.jpg": {
+  "base": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup",
+  "w": 1600,
+  "h": 2395,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 2395,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 1347,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 718,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-480.webp"
+   }
+  ]
+ },
+ "2024_05_que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup.jpg": {
+  "base": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup",
+  "w": 1600,
+  "h": 2395,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 2395,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 1347,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 718,
+    "file": "que-precauciones-debo-tener-al-momento-de-encender-mi-calefactor-mpgroup-480.webp"
+   }
+  ]
+ },
+ "2024_06_Service-de-Freezers-Whirlpool-MP-Group.webp": {
+  "base": "service-de-freezers-whirlpool-mp-group",
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 800,
+    "h": 800,
+    "file": "service-de-freezers-whirlpool-mp-group-800.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "service-de-freezers-whirlpool-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_06_Service-de-Heladeras-Whirlpool-MP-Group-1.webp": {
+  "base": "service-de-heladeras-whirlpool-mp-group-1",
+  "w": 800,
+  "h": 800,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 800,
+    "h": 800,
+    "file": "service-de-heladeras-whirlpool-mp-group-1-800.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "service-de-heladeras-whirlpool-mp-group-1-480.webp"
+   }
+  ]
+ },
+ "2024_06_Service-de-Lavarropas-General-Electric-MP-Group.webp": {
+  "base": "service-de-lavarropas-general-electric-mp-group",
+  "w": 920,
+  "h": 1196,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 920,
+    "h": 1196,
+    "file": "service-de-lavarropas-general-electric-mp-group-920.webp"
+   },
+   {
+    "w": 480,
+    "h": 624,
+    "file": "service-de-lavarropas-general-electric-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_07_cuando-hacer-un-mantenimiento-al-aire-acondicionado-mpgroup.jpg": {
+  "base": "cuando-hacer-un-mantenimiento-al-aire-acondicionado-mpgroup",
+  "w": 1500,
+  "h": 1000,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1500,
+    "h": 1000,
+    "file": "cuando-hacer-un-mantenimiento-al-aire-acondicionado-mpgroup-1500.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "cuando-hacer-un-mantenimiento-al-aire-acondicionado-mpgroup-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "cuando-hacer-un-mantenimiento-al-aire-acondicionado-mpgroup-480.webp"
+   }
+  ]
+ },
+ "2024_07_cuidado-y-mantenimiento-de-secarropas-MP-Group-scaled.jpg": {
+  "base": "cuidado-y-mantenimiento-de-secarropas-mp-group",
+  "w": 1600,
+  "h": 720,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 720,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 405,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 216,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-480.webp"
+   }
+  ]
+ },
+ "2024_07_cuidado-y-mantenimiento-de-secarropas-MP-Group.jpg": {
+  "base": "cuidado-y-mantenimiento-de-secarropas-mp-group",
+  "w": 1600,
+  "h": 720,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 720,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 405,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 216,
+    "file": "cuidado-y-mantenimiento-de-secarropas-mp-group-480.webp"
+   }
+  ]
+ },
+ "2025_08_Adobe-Express-file-25-scaled.jpg": {
+  "base": "adobe-express-file-25",
+  "w": 1600,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1200,
+    "file": "adobe-express-file-25-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "adobe-express-file-25-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "adobe-express-file-25-480.webp"
+   }
+  ]
+ },
+ "2025_08_Adobe-Express-file-25.jpg": {
+  "base": "adobe-express-file-25",
+  "w": 1600,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1200,
+    "file": "adobe-express-file-25-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "adobe-express-file-25-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "adobe-express-file-25-480.webp"
+   }
+  ]
+ },
+ "2025_08_pexels-asphotograpy-213162-scaled.jpg": {
+  "base": "pexels-asphotograpy-213162",
+  "w": 1600,
+  "h": 1068,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1068,
+    "file": "pexels-asphotograpy-213162-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 601,
+    "file": "pexels-asphotograpy-213162-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "pexels-asphotograpy-213162-480.webp"
+   }
+  ]
+ },
+ "2025_08_pexels-asphotograpy-213162.jpg": {
+  "base": "pexels-asphotograpy-213162",
+  "w": 1600,
+  "h": 1068,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 1068,
+    "file": "pexels-asphotograpy-213162-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 601,
+    "file": "pexels-asphotograpy-213162-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "pexels-asphotograpy-213162-480.webp"
+   }
+  ]
+ },
+ "gen-blog-errores.png": {
+  "base": "gen-blog-errores",
+  "w": 1586,
+  "h": 992,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1586,
+    "h": 992,
+    "file": "gen-blog-errores-1586.webp"
+   },
+   {
+    "w": 900,
+    "h": 563,
+    "file": "gen-blog-errores-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 300,
+    "file": "gen-blog-errores-480.webp"
+   }
+  ]
+ },
+ "gen-blog-index.png": {
+  "base": "gen-blog-index",
+  "w": 1672,
+  "h": 941,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 900,
+    "file": "gen-blog-index-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 507,
+    "file": "gen-blog-index-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 270,
+    "file": "gen-blog-index-480.webp"
+   }
+  ]
+ },
+ "gen-contacto-operadora.png": {
+  "base": "gen-contacto-operadora",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-contacto-operadora-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-contacto-operadora-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-contacto-operadora-480.webp"
+   }
+  ]
+ },
+ "gen-equipo-camioneta.png": {
+  "base": "gen-equipo-camioneta",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-equipo-camioneta-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-equipo-camioneta-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-equipo-camioneta-480.webp"
+   }
+  ]
+ },
+ "gen-proceso-visita.png": {
+  "base": "gen-proceso-visita",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-proceso-visita-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-proceso-visita-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-proceso-visita-480.webp"
+   }
+  ]
+ },
+ "gen-prod-aire-acondicionado.png": {
+  "base": "gen-prod-aire-acondicionado",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-aire-acondicionado-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-aire-acondicionado-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-aire-acondicionado-480.webp"
+   }
+  ]
+ },
+ "gen-prod-heladeras.png": {
+  "base": "gen-prod-heladeras",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-heladeras-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-heladeras-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-heladeras-480.webp"
+   }
+  ]
+ },
+ "gen-prod-lavarropas.png": {
+  "base": "gen-prod-lavarropas",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-lavarropas-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-lavarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-lavarropas-480.webp"
+   }
+  ]
+ },
+ "gen-prod-lavavajillas.png": {
+  "base": "gen-prod-lavavajillas",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-lavavajillas-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-lavavajillas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-lavavajillas-480.webp"
+   }
+  ]
+ },
+ "gen-prod-secarropas.png": {
+  "base": "gen-prod-secarropas",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-secarropas-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-secarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-secarropas-480.webp"
+   }
+  ]
+ },
+ "gen-prod-termotanques.png": {
+  "base": "gen-prod-termotanques",
+  "w": 1254,
+  "h": 1254,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1254,
+    "h": 1254,
+    "file": "gen-prod-termotanques-1254.webp"
+   },
+   {
+    "w": 900,
+    "h": 900,
+    "file": "gen-prod-termotanques-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gen-prod-termotanques-480.webp"
+   }
+  ]
+ },
+ "gen-svc-aire-acondicionado.png": {
+  "base": "gen-svc-aire-acondicionado",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-aire-acondicionado-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-aire-acondicionado-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-aire-acondicionado-480.webp"
+   }
+  ]
+ },
+ "gen-svc-calefones.png": {
+  "base": "gen-svc-calefones",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-calefones-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-calefones-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-calefones-480.webp"
+   }
+  ]
+ },
+ "gen-svc-estufas.png": {
+  "base": "gen-svc-estufas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-estufas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-estufas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-estufas-480.webp"
+   }
+  ]
+ },
+ "gen-svc-heladeras.png": {
+  "base": "gen-svc-heladeras",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-heladeras-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-heladeras-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-heladeras-480.webp"
+   }
+  ]
+ },
+ "gen-svc-hornos-y-cocinas.png": {
+  "base": "gen-svc-hornos-y-cocinas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-hornos-y-cocinas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-hornos-y-cocinas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-hornos-y-cocinas-480.webp"
+   }
+  ]
+ },
+ "gen-svc-lavarropas.png": {
+  "base": "gen-svc-lavarropas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-lavarropas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-lavarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-lavarropas-480.webp"
+   }
+  ]
+ },
+ "gen-svc-lavavajillas.png": {
+  "base": "gen-svc-lavavajillas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-lavavajillas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-lavavajillas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-lavavajillas-480.webp"
+   }
+  ]
+ },
+ "gen-svc-secarropas.png": {
+  "base": "gen-svc-secarropas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-secarropas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-secarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-secarropas-480.webp"
+   }
+  ]
+ },
+ "gen-svc-termotanques.png": {
+  "base": "gen-svc-termotanques",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-svc-termotanques-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-svc-termotanques-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-svc-termotanques-480.webp"
+   }
+  ]
+ },
+ "gen-taller-capacitacion.png": {
+  "base": "gen-taller-capacitacion",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-taller-capacitacion-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-taller-capacitacion-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-taller-capacitacion-480.webp"
+   }
+  ]
+ },
+ "gen-test-lavarropas.png": {
+  "base": "gen-test-lavarropas",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "gen-test-lavarropas-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "gen-test-lavarropas-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-test-lavarropas-480.webp"
+   }
+  ]
+ },
+ "gen-test-prev.jpg": {
+  "base": "gen-test-prev",
+  "w": 800,
+  "h": 600,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "gen-test-prev-800.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "gen-test-prev-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-bgh-1.jpg": {
+  "base": "real-aire-acondicionado-bgh-1",
+  "w": 1445,
+  "h": 1088,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1445,
+    "h": 1088,
+    "file": "real-aire-acondicionado-bgh-1-1445.webp"
+   },
+   {
+    "w": 900,
+    "h": 678,
+    "file": "real-aire-acondicionado-bgh-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-bgh-1-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-bgh-2.jpg": {
+  "base": "real-aire-acondicionado-bgh-2",
+  "w": 1449,
+  "h": 1085,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1449,
+    "h": 1085,
+    "file": "real-aire-acondicionado-bgh-2-1449.webp"
+   },
+   {
+    "w": 900,
+    "h": 674,
+    "file": "real-aire-acondicionado-bgh-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 359,
+    "file": "real-aire-acondicionado-bgh-2-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-bgh-3.jpg": {
+  "base": "real-aire-acondicionado-bgh-3",
+  "w": 1200,
+  "h": 903,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1200,
+    "h": 903,
+    "file": "real-aire-acondicionado-bgh-3-1200.webp"
+   },
+   {
+    "w": 900,
+    "h": 677,
+    "file": "real-aire-acondicionado-bgh-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-bgh-3-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-equipo-1.jpg": {
+  "base": "real-aire-acondicionado-equipo-1",
+  "w": 1200,
+  "h": 903,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1200,
+    "h": 903,
+    "file": "real-aire-acondicionado-equipo-1-1200.webp"
+   },
+   {
+    "w": 900,
+    "h": 677,
+    "file": "real-aire-acondicionado-equipo-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-lg-1.jpg": {
+  "base": "real-aire-acondicionado-lg-1",
+  "w": 1445,
+  "h": 1088,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1445,
+    "h": 1088,
+    "file": "real-aire-acondicionado-lg-1-1445.webp"
+   },
+   {
+    "w": 900,
+    "h": 678,
+    "file": "real-aire-acondicionado-lg-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-lg-1-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-philips-1.jpg": {
+  "base": "real-aire-acondicionado-philips-1",
+  "w": 1445,
+  "h": 1088,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1445,
+    "h": 1088,
+    "file": "real-aire-acondicionado-philips-1-1445.webp"
+   },
+   {
+    "w": 900,
+    "h": 678,
+    "file": "real-aire-acondicionado-philips-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-philips-1-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-philips-2.jpg": {
+  "base": "real-aire-acondicionado-philips-2",
+  "w": 1447,
+  "h": 1087,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1447,
+    "h": 1087,
+    "file": "real-aire-acondicionado-philips-2-1447.webp"
+   },
+   {
+    "w": 900,
+    "h": 676,
+    "file": "real-aire-acondicionado-philips-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-philips-2-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-samsung-1.jpg": {
+  "base": "real-aire-acondicionado-samsung-1",
+  "w": 1446,
+  "h": 1087,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1446,
+    "h": 1087,
+    "file": "real-aire-acondicionado-samsung-1-1446.webp"
+   },
+   {
+    "w": 900,
+    "h": 677,
+    "file": "real-aire-acondicionado-samsung-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-samsung-2.jpg": {
+  "base": "real-aire-acondicionado-samsung-2",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "real-aire-acondicionado-samsung-2-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "real-aire-acondicionado-samsung-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "real-aire-acondicionado-samsung-2-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-samsung-3.jpg": {
+  "base": "real-aire-acondicionado-samsung-3",
+  "w": 1445,
+  "h": 1088,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1445,
+    "h": 1088,
+    "file": "real-aire-acondicionado-samsung-3-1445.webp"
+   },
+   {
+    "w": 900,
+    "h": 678,
+    "file": "real-aire-acondicionado-samsung-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-samsung-3-480.webp"
+   }
+  ]
+ },
+ "real-aire-acondicionado-whirlpool-1.jpg": {
+  "base": "real-aire-acondicionado-whirlpool-1",
+  "w": 1446,
+  "h": 1088,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1446,
+    "h": 1088,
+    "file": "real-aire-acondicionado-whirlpool-1-1446.webp"
+   },
+   {
+    "w": 900,
+    "h": 677,
+    "file": "real-aire-acondicionado-whirlpool-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 361,
+    "file": "real-aire-acondicionado-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-domec-1.jpg": {
+  "base": "real-calefones-domec-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-domec-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-domec-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-equipo-1.jpg": {
+  "base": "real-calefones-equipo-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-equipo-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-lg-1.jpg": {
+  "base": "real-calefones-lg-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-lg-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-lg-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-longvie-1.jpg": {
+  "base": "real-calefones-longvie-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-longvie-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-longvie-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-longvie-2.jpg": {
+  "base": "real-calefones-longvie-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-longvie-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-longvie-2-480.webp"
+   }
+  ]
+ },
+ "real-calefones-longvie-3.jpg": {
+  "base": "real-calefones-longvie-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-longvie-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-longvie-3-480.webp"
+   }
+  ]
+ },
+ "real-calefones-longvie-4.jpg": {
+  "base": "real-calefones-longvie-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-longvie-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-longvie-4-480.webp"
+   }
+  ]
+ },
+ "real-calefones-orbis-1.jpg": {
+  "base": "real-calefones-orbis-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-orbis-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-orbis-1-480.webp"
+   }
+  ]
+ },
+ "real-calefones-orbis-2.jpg": {
+  "base": "real-calefones-orbis-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-orbis-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-orbis-2-480.webp"
+   }
+  ]
+ },
+ "real-calefones-orbis-3.jpg": {
+  "base": "real-calefones-orbis-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-calefones-orbis-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-calefones-orbis-3-480.webp"
+   }
+  ]
+ },
+ "real-estufas-equipo-1.jpg": {
+  "base": "real-estufas-equipo-1",
+  "w": 1536,
+  "h": 1024,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1536,
+    "h": 1024,
+    "file": "real-estufas-equipo-1-1536.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "real-estufas-equipo-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "real-estufas-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-estufas-longvie-1.jpg": {
+  "base": "real-estufas-longvie-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-longvie-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-longvie-1-480.webp"
+   }
+  ]
+ },
+ "real-estufas-longvie-2.jpg": {
+  "base": "real-estufas-longvie-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-longvie-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-longvie-2-480.webp"
+   }
+  ]
+ },
+ "real-estufas-longvie-3.jpg": {
+  "base": "real-estufas-longvie-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-longvie-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-longvie-3-480.webp"
+   }
+  ]
+ },
+ "real-estufas-longvie-4.jpg": {
+  "base": "real-estufas-longvie-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-longvie-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-longvie-4-480.webp"
+   }
+  ]
+ },
+ "real-estufas-longvie-5.jpg": {
+  "base": "real-estufas-longvie-5",
+  "w": 1536,
+  "h": 1024,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1536,
+    "h": 1024,
+    "file": "real-estufas-longvie-5-1536.webp"
+   },
+   {
+    "w": 900,
+    "h": 600,
+    "file": "real-estufas-longvie-5-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 320,
+    "file": "real-estufas-longvie-5-480.webp"
+   }
+  ]
+ },
+ "real-estufas-orbis-1.jpg": {
+  "base": "real-estufas-orbis-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-orbis-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-orbis-1-480.webp"
+   }
+  ]
+ },
+ "real-estufas-orbis-2.jpg": {
+  "base": "real-estufas-orbis-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-orbis-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-orbis-2-480.webp"
+   }
+  ]
+ },
+ "real-estufas-orbis-3.jpg": {
+  "base": "real-estufas-orbis-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-orbis-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-orbis-3-480.webp"
+   }
+  ]
+ },
+ "real-estufas-orbis-4.jpg": {
+  "base": "real-estufas-orbis-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-estufas-orbis-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-estufas-orbis-4-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-ariston-1.jpg": {
+  "base": "real-heladeras-ariston-1",
+  "w": 1088,
+  "h": 1446,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1276,
+    "file": "real-heladeras-ariston-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-heladeras-ariston-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-ariston-2.jpg": {
+  "base": "real-heladeras-ariston-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-ariston-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-ariston-2-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-ariston-3.jpg": {
+  "base": "real-heladeras-ariston-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-ariston-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-ariston-3-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-ariston-4.jpg": {
+  "base": "real-heladeras-ariston-4",
+  "w": 675,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 675,
+    "h": 1200,
+    "file": "real-heladeras-ariston-4-675.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-heladeras-ariston-4-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-general-electric-1.jpg": {
+  "base": "real-heladeras-general-electric-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-general-electric-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-general-electric-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-general-electric-2.jpg": {
+  "base": "real-heladeras-general-electric-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-general-electric-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-general-electric-2-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-general-electric-3.jpg": {
+  "base": "real-heladeras-general-electric-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-general-electric-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-general-electric-3-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-general-electric-4.jpg": {
+  "base": "real-heladeras-general-electric-4",
+  "w": 927,
+  "h": 1697,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 927,
+    "h": 1697,
+    "file": "real-heladeras-general-electric-4-927.webp"
+   },
+   {
+    "w": 480,
+    "h": 879,
+    "file": "real-heladeras-general-electric-4-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-general-electric-5.jpg": {
+  "base": "real-heladeras-general-electric-5",
+  "w": 1122,
+  "h": 1402,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1200,
+    "file": "real-heladeras-general-electric-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 600,
+    "file": "real-heladeras-general-electric-5-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-lg-1.jpg": {
+  "base": "real-heladeras-lg-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-lg-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-lg-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-longvie-1.jpg": {
+  "base": "real-heladeras-longvie-1",
+  "w": 903,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 903,
+    "h": 1200,
+    "file": "real-heladeras-longvie-1-903.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-heladeras-longvie-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-samsung-1.jpg": {
+  "base": "real-heladeras-samsung-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-samsung-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-samsung-2.jpg": {
+  "base": "real-heladeras-samsung-2",
+  "w": 940,
+  "h": 1673,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 940,
+    "h": 1673,
+    "file": "real-heladeras-samsung-2-940.webp"
+   },
+   {
+    "w": 480,
+    "h": 854,
+    "file": "real-heladeras-samsung-2-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-whirlpool-1.jpg": {
+  "base": "real-heladeras-whirlpool-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-whirlpool-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-heladeras-whirlpool-2.jpg": {
+  "base": "real-heladeras-whirlpool-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-heladeras-whirlpool-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-heladeras-whirlpool-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-1.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-10.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-10",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-hornos-y-cocinas-ariston-10-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-hornos-y-cocinas-ariston-10-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-11.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-11",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-11-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-11-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-12.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-12",
+  "w": 1672,
+  "h": 941,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1600,
+    "h": 900,
+    "file": "real-hornos-y-cocinas-ariston-12-1600.webp"
+   },
+   {
+    "w": 900,
+    "h": 507,
+    "file": "real-hornos-y-cocinas-ariston-12-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 270,
+    "file": "real-hornos-y-cocinas-ariston-12-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-13.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-13",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-hornos-y-cocinas-ariston-13-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-hornos-y-cocinas-ariston-13-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-2.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-3.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-3-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-4.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-4",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-hornos-y-cocinas-ariston-4-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-4-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-5.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-5-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-6.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-6",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-6-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-6-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-7.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-7",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-ariston-7-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-ariston-7-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-8.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-8",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "real-hornos-y-cocinas-ariston-8-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "real-hornos-y-cocinas-ariston-8-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "real-hornos-y-cocinas-ariston-8-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-ariston-9.jpg": {
+  "base": "real-hornos-y-cocinas-ariston-9",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "real-hornos-y-cocinas-ariston-9-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "real-hornos-y-cocinas-ariston-9-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "real-hornos-y-cocinas-ariston-9-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-1.jpg": {
+  "base": "real-hornos-y-cocinas-domec-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-2.jpg": {
+  "base": "real-hornos-y-cocinas-domec-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-3.jpg": {
+  "base": "real-hornos-y-cocinas-domec-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-3-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-4.jpg": {
+  "base": "real-hornos-y-cocinas-domec-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-4-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-5.jpg": {
+  "base": "real-hornos-y-cocinas-domec-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-5-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-domec-6.jpg": {
+  "base": "real-hornos-y-cocinas-domec-6",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-domec-6-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-domec-6-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-electrolux-1.jpg": {
+  "base": "real-hornos-y-cocinas-electrolux-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-electrolux-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-electrolux-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-equipo-1.jpg": {
+  "base": "real-hornos-y-cocinas-equipo-1",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-hornos-y-cocinas-equipo-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-equipo-2.jpg": {
+  "base": "real-hornos-y-cocinas-equipo-2",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-hornos-y-cocinas-equipo-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-equipo-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-equipo-3.jpg": {
+  "base": "real-hornos-y-cocinas-equipo-3",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-hornos-y-cocinas-equipo-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-equipo-3-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-equipo-4.jpg": {
+  "base": "real-hornos-y-cocinas-equipo-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-equipo-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-equipo-4-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-1.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-10.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-10",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-10-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-10-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-2.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-3.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-3-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-4.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-4",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-hornos-y-cocinas-longvie-4-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-hornos-y-cocinas-longvie-4-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-5.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-5-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-6.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-6",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-6-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-6-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-7.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-7",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-7-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-7-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-8.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-8",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-8-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-8-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-longvie-9.jpg": {
+  "base": "real-hornos-y-cocinas-longvie-9",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-longvie-9-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-longvie-9-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-1.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-2.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-3.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-3-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-4.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-4-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-5.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-5-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-6.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-6",
+  "w": 1448,
+  "h": 1086,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1448,
+    "h": 1086,
+    "file": "real-hornos-y-cocinas-orbis-6-1448.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "real-hornos-y-cocinas-orbis-6-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "real-hornos-y-cocinas-orbis-6-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-7.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-7",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-7-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-7-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-orbis-8.jpg": {
+  "base": "real-hornos-y-cocinas-orbis-8",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-orbis-8-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-orbis-8-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-samsung-1.jpg": {
+  "base": "real-hornos-y-cocinas-samsung-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-samsung-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-samsung-2.jpg": {
+  "base": "real-hornos-y-cocinas-samsung-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-samsung-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-samsung-2-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-whirlpool-1.jpg": {
+  "base": "real-hornos-y-cocinas-whirlpool-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-whirlpool-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-hornos-y-cocinas-whirlpool-2.jpg": {
+  "base": "real-hornos-y-cocinas-whirlpool-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-hornos-y-cocinas-whirlpool-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-hornos-y-cocinas-whirlpool-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-1.jpg": {
+  "base": "real-lavarropas-ariston-1",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-2.jpg": {
+  "base": "real-lavarropas-ariston-2",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-2-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-3.jpg": {
+  "base": "real-lavarropas-ariston-3",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-4.jpg": {
+  "base": "real-lavarropas-ariston-4",
+  "w": 903,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 903,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-4-903.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-ariston-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-5.jpg": {
+  "base": "real-lavarropas-ariston-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-ariston-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-5-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-6.jpg": {
+  "base": "real-lavarropas-ariston-6",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-6-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-6-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-ariston-7.jpg": {
+  "base": "real-lavarropas-ariston-7",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-ariston-7-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-ariston-7-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-drean-1.jpg": {
+  "base": "real-lavarropas-drean-1",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-drean-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-drean-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-drean-2.jpg": {
+  "base": "real-lavarropas-drean-2",
+  "w": 903,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 903,
+    "h": 1200,
+    "file": "real-lavarropas-drean-2-903.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-drean-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-drean-3.jpg": {
+  "base": "real-lavarropas-drean-3",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-drean-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-drean-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-drean-4.jpg": {
+  "base": "real-lavarropas-drean-4",
+  "w": 903,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 903,
+    "h": 1200,
+    "file": "real-lavarropas-drean-4-903.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-drean-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-equipo-1.jpg": {
+  "base": "real-lavarropas-equipo-1",
+  "w": 900,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 900,
+    "h": 1200,
+    "file": "real-lavarropas-equipo-1-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-general-electric-1.jpg": {
+  "base": "real-lavarropas-general-electric-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-general-electric-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-general-electric-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-general-electric-2.jpg": {
+  "base": "real-lavarropas-general-electric-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-general-electric-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-general-electric-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-general-electric-3.jpg": {
+  "base": "real-lavarropas-general-electric-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-general-electric-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-general-electric-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-general-electric-4.jpg": {
+  "base": "real-lavarropas-general-electric-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-general-electric-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-general-electric-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-1.jpg": {
+  "base": "real-lavarropas-lg-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-2.jpg": {
+  "base": "real-lavarropas-lg-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-3.jpg": {
+  "base": "real-lavarropas-lg-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-4.jpg": {
+  "base": "real-lavarropas-lg-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-5.jpg": {
+  "base": "real-lavarropas-lg-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-5-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-6.jpg": {
+  "base": "real-lavarropas-lg-6",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-6-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-6-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-7.jpg": {
+  "base": "real-lavarropas-lg-7",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-7-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-7-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-lg-8.jpg": {
+  "base": "real-lavarropas-lg-8",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-lg-8-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-lg-8-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-1.jpg": {
+  "base": "real-lavarropas-longvie-1",
+  "w": 1088,
+  "h": 1445,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1275,
+    "file": "real-lavarropas-longvie-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-longvie-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-2.jpg": {
+  "base": "real-lavarropas-longvie-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-longvie-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-longvie-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-3.jpg": {
+  "base": "real-lavarropas-longvie-3",
+  "w": 1200,
+  "h": 900,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "real-lavarropas-longvie-3-1200.webp"
+   },
+   {
+    "w": 900,
+    "h": 675,
+    "file": "real-lavarropas-longvie-3-900.webp"
+   },
+   {
+    "w": 480,
+    "h": 360,
+    "file": "real-lavarropas-longvie-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-4.jpg": {
+  "base": "real-lavarropas-longvie-4",
+  "w": 675,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 675,
+    "h": 1200,
+    "file": "real-lavarropas-longvie-4-675.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-lavarropas-longvie-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-5.jpg": {
+  "base": "real-lavarropas-longvie-5",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-lavarropas-longvie-5-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-lavarropas-longvie-5-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-longvie-6.jpg": {
+  "base": "real-lavarropas-longvie-6",
+  "w": 903,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 903,
+    "h": 1200,
+    "file": "real-lavarropas-longvie-6-903.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-longvie-6-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-1.jpg": {
+  "base": "real-lavarropas-samsung-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-samsung-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-2.jpg": {
+  "base": "real-lavarropas-samsung-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-samsung-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-samsung-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-3.jpg": {
+  "base": "real-lavarropas-samsung-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-samsung-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-samsung-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-4.jpg": {
+  "base": "real-lavarropas-samsung-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-samsung-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-samsung-4-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-5.jpg": {
+  "base": "real-lavarropas-samsung-5",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-samsung-5-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-samsung-5-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-6.jpg": {
+  "base": "real-lavarropas-samsung-6",
+  "w": 1093,
+  "h": 1438,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1263,
+    "file": "real-lavarropas-samsung-6-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 632,
+    "file": "real-lavarropas-samsung-6-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-samsung-7.jpg": {
+  "base": "real-lavarropas-samsung-7",
+  "w": 1088,
+  "h": 1446,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1276,
+    "file": "real-lavarropas-samsung-7-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-samsung-7-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-whirlpool-1.jpg": {
+  "base": "real-lavarropas-whirlpool-1",
+  "w": 1088,
+  "h": 1445,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1275,
+    "file": "real-lavarropas-whirlpool-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavarropas-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-whirlpool-2.jpg": {
+  "base": "real-lavarropas-whirlpool-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-whirlpool-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-whirlpool-2-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-whirlpool-3.jpg": {
+  "base": "real-lavarropas-whirlpool-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-whirlpool-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-whirlpool-3-480.webp"
+   }
+  ]
+ },
+ "real-lavarropas-whirlpool-4.jpg": {
+  "base": "real-lavarropas-whirlpool-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavarropas-whirlpool-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavarropas-whirlpool-4-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-ariston-1.jpg": {
+  "base": "real-lavavajillas-ariston-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-ariston-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-ariston-1-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-ariston-2.jpg": {
+  "base": "real-lavavajillas-ariston-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-ariston-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-ariston-2-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-ariston-3.jpg": {
+  "base": "real-lavavajillas-ariston-3",
+  "w": 1088,
+  "h": 1446,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1276,
+    "file": "real-lavavajillas-ariston-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-lavavajillas-ariston-3-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-ariston-4.jpg": {
+  "base": "real-lavavajillas-ariston-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-ariston-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-ariston-4-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-candy-1.jpg": {
+  "base": "real-lavavajillas-candy-1",
+  "w": 675,
+  "h": 1200,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 675,
+    "h": 1200,
+    "file": "real-lavavajillas-candy-1-675.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-lavavajillas-candy-1-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-lg-1.jpg": {
+  "base": "real-lavavajillas-lg-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-lg-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-lg-1-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-lg-2.jpg": {
+  "base": "real-lavavajillas-lg-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-lg-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-lg-2-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-lg-3.jpg": {
+  "base": "real-lavavajillas-lg-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-lg-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-lg-3-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-lg-4.jpg": {
+  "base": "real-lavavajillas-lg-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-lg-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-lg-4-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-samsung-1.jpg": {
+  "base": "real-lavavajillas-samsung-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-samsung-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-samsung-2.jpg": {
+  "base": "real-lavavajillas-samsung-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-samsung-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-samsung-2-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-whirlpool-1.jpg": {
+  "base": "real-lavavajillas-whirlpool-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-whirlpool-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-whirlpool-2.jpg": {
+  "base": "real-lavavajillas-whirlpool-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-whirlpool-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-whirlpool-2-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-whirlpool-3.jpg": {
+  "base": "real-lavavajillas-whirlpool-3",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-whirlpool-3-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-whirlpool-3-480.webp"
+   }
+  ]
+ },
+ "real-lavavajillas-whirlpool-4.jpg": {
+  "base": "real-lavavajillas-whirlpool-4",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-lavavajillas-whirlpool-4-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-lavavajillas-whirlpool-4-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-ariston-1.jpg": {
+  "base": "real-secarropas-ariston-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-secarropas-ariston-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-secarropas-ariston-1-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-ariston-2.jpg": {
+  "base": "real-secarropas-ariston-2",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-secarropas-ariston-2-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-secarropas-ariston-2-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-ariston-3.jpg": {
+  "base": "real-secarropas-ariston-3",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-secarropas-ariston-3-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-secarropas-ariston-3-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-ariston-4.jpg": {
+  "base": "real-secarropas-ariston-4",
+  "w": 941,
+  "h": 1672,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 941,
+    "h": 1672,
+    "file": "real-secarropas-ariston-4-941.webp"
+   },
+   {
+    "w": 480,
+    "h": 853,
+    "file": "real-secarropas-ariston-4-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-samsung-1.jpg": {
+  "base": "real-secarropas-samsung-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-secarropas-samsung-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-secarropas-samsung-1-480.webp"
+   }
+  ]
+ },
+ "real-secarropas-whirlpool-1.jpg": {
+  "base": "real-secarropas-whirlpool-1",
+  "w": 1088,
+  "h": 1445,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1275,
+    "file": "real-secarropas-whirlpool-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 638,
+    "file": "real-secarropas-whirlpool-1-480.webp"
+   }
+  ]
+ },
+ "real-termotanques-equipo-1.jpg": {
+  "base": "real-termotanques-equipo-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-termotanques-equipo-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-termotanques-equipo-1-480.webp"
+   }
+  ]
+ },
+ "real-termotanques-orbis-1.jpg": {
+  "base": "real-termotanques-orbis-1",
+  "w": 1086,
+  "h": 1448,
+  "alpha": false,
+  "sizes": [
+   {
+    "w": 960,
+    "h": 1280,
+    "file": "real-termotanques-orbis-1-960.webp"
+   },
+   {
+    "w": 480,
+    "h": 640,
+    "file": "real-termotanques-orbis-1-480.webp"
+   }
+  ]
+ }
+}

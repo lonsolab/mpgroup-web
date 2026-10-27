@@ -1,0 +1,618 @@
+[
+  {
+    "slug": "service-samsung",
+    "brand": "Samsung",
+    "name": "Service Samsung",
+    "title": "Service técnico Samsung: heladeras y lavarropas | MP Group",
+    "description": "Service y reparación de heladeras, lavarropas, lavavajillas y aires acondicionados Samsung a domicilio en CABA y Zona Norte. Escribinos por WhatsApp.",
+    "h1": "Service técnico Samsung",
+    "lead": "Reparamos heladeras, lavarropas, lavavajillas y aires acondicionados Samsung a domicilio en CABA y Zona Norte. Contanos qué falla y agendamos la visita.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Lavarropas Samsung",
+        "service": "lavarropas",
+        "image": "2024_05_lavarropas-lg-mp-group.png",
+        "d": "Lavarropas y lavasecarropas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas."
+      },
+      {
+        "name": "Lavavajillas Samsung",
+        "service": "lavavajillas",
+        "image": "2024_05_Lavavajilla-s1.webp",
+        "d": "Bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas."
+      },
+      {
+        "name": "Aires acondicionados Samsung",
+        "service": "aire-acondicionado",
+        "image": null,
+        "d": "Equipos convencionales e inverter: carga de gas, fugas, arranque del compresor, pérdidas de agua, filtros y drenajes."
+      },
+      {
+        "name": "Heladeras Samsung",
+        "service": "heladeras",
+        "image": null,
+        "d": "Heladeras no frost, side by side e inverter: filtros, motores, placas principales e inverter."
+      }
+    ],
+    "services": [
+      "Reparación de heladeras no frost, side by side e inverter",
+      "Cambio de filtros, motores, placas principales e inverter",
+      "Reparación de lavarropas y lavasecarropas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas",
+      "Reparación de lavavajillas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas",
+      "Reparación de aires acondicionados convencionales e inverter",
+      "Carga de gas y solución de fugas en aires acondicionados",
+      "Cambio de arranque del compresor",
+      "Solución de pérdidas de agua internas y externas, limpieza de filtros y drenajes"
+    ],
+    "intro": [
+      "En MP Group hacemos service y reparación de electrodomésticos Samsung en CABA y Zona Norte: heladeras no frost, side by side e inverter, lavarropas y lavasecarropas, lavavajillas y aires acondicionados convencionales e inverter. También hacemos instalación y mantenimiento.",
+      "Nuestros técnicos llegan con las herramientas y el conocimiento para diagnosticar la falla y resolverla, con un trato claro y transparente desde el primer contacto hasta que el equipo vuelve a funcionar."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-de-heladeras-samsung",
+    "brand": "Samsung",
+    "name": "Service de Heladeras Samsung",
+    "title": "Service de heladeras Samsung | MP Group",
+    "description": "Service de heladeras Samsung a domicilio en CABA y Zona Norte: reparación de heladeras side by side y de dos puertas, compresor, carga de gas y plaquetas.",
+    "h1": "Service de heladeras Samsung",
+    "lead": "Reparamos y hacemos el mantenimiento de heladeras Samsung a domicilio en CABA y Zona Norte. Escribinos y te decimos cómo seguir.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Heladeras Samsung",
+        "service": "heladeras",
+        "image": null,
+        "d": "Heladeras side by side y de dos puertas: compresor, carga de gas, plaquetas, sensores defrost, forzadores y máquinas de hielo."
+      }
+    ],
+    "services": [
+      "Cambio de compresor, filtro antihumedad, limpieza de circuito, vacío y carga de gas",
+      "Cambio o reparación de plaquetas",
+      "Cambio de sensores defrost",
+      "Cambio de filtros",
+      "Reparación o cambio de máquinas de hielo",
+      "Cambio de forzadores con y sin sensores",
+      "Limpieza de condensadores en heladeras side by side",
+      "Mantenimiento preventivo de heladeras de dos puertas"
+    ],
+    "intro": [
+      "Hacemos la reparación y el mantenimiento de heladeras Samsung en CABA y Zona Norte, con atención personalizada, para que tu heladera vuelva a funcionar como corresponde.",
+      "Trabajamos con muchas marcas, entre ellas Samsung. Hacemos un diagnóstico preciso y usamos repuestos originales o equivalentes para que la reparación dure."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-lg",
+    "brand": "LG",
+    "name": "Service LG",
+    "title": "Service técnico LG: heladeras y lavarropas a domicilio | MP Group",
+    "description": "Service técnico y reparación de heladeras, lavarropas, lavavajillas y aires acondicionados LG a domicilio en CABA y Zona Norte. Escribinos por WhatsApp.",
+    "h1": "Service técnico LG",
+    "lead": "Reparamos lavarropas, heladeras, lavavajillas y aires acondicionados LG a domicilio en CABA y Zona Norte, ya sea por una urgencia o para un mantenimiento.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Lavarropas LG",
+        "service": "lavarropas",
+        "image": null,
+        "d": "Lavarropas y lavasecarropas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas."
+      },
+      {
+        "name": "Lavavajillas LG",
+        "service": "lavavajillas",
+        "image": null,
+        "d": "Bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas."
+      },
+      {
+        "name": "Aires acondicionados LG",
+        "service": "aire-acondicionado",
+        "image": "2024_05_aire-acondicionado-lg-mp-group.png",
+        "d": "Equipos convencionales e inverter: carga de gas, fugas, arranque del compresor, pérdidas de agua, filtros y drenajes."
+      },
+      {
+        "name": "Heladeras LG",
+        "service": "heladeras",
+        "image": null,
+        "d": "Heladeras no frost, side by side e inverter: filtros, motores, placas principales e inverter."
+      }
+    ],
+    "services": [
+      "Reparación de heladeras no frost, side by side e inverter",
+      "Cambio de filtros, motores, placas principales e inverter",
+      "Reparación de lavarropas y lavasecarropas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas",
+      "Reparación de lavavajillas: bombas de desagote y de recirculación, electroválvulas, filtros, arranques y placas",
+      "Reparación de aires acondicionados convencionales e inverter",
+      "Carga de gas y solución de fugas en aires acondicionados",
+      "Cambio de arranque del compresor",
+      "Solución de pérdidas de agua internas y externas, limpieza de filtros y drenajes"
+    ],
+    "intro": [
+      "En MP Group hacemos instalación, reparación y mantenimiento de electrodomésticos LG: lavarropas y lavasecarropas, heladeras no frost, side by side e inverter, lavavajillas y aires acondicionados convencionales e inverter.",
+      "Ya sea una reparación urgente o un mantenimiento regular, nuestros técnicos capacitados se ocupan de que tu equipo LG vuelva a rendir al máximo."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-ariston",
+    "brand": "Ariston",
+    "name": "Service Ariston",
+    "title": "Service técnico Ariston: hornos, cocinas y lavavajillas | MP Group",
+    "description": "Service y reparación de cocinas, hornos, anafes, lavavajillas y secarropas Ariston a domicilio en CABA y Zona Norte. Pedí tu visita por WhatsApp.",
+    "h1": "Service técnico Ariston",
+    "lead": "Reparamos cocinas, hornos, anafes, lavavajillas y secarropas Ariston a domicilio en CABA y Zona Norte.",
+    "heroImage": "2024_05_hero-ariston.webp",
+    "appliances": [
+      {
+        "name": "Cocinas Ariston",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_ariston03.webp",
+        "d": "Cocinas y anafes a gas, eléctricos y combinados: válvulas de seguridad, bujías y encendidos, termostatos, resistencias y quemadores."
+      },
+      {
+        "name": "Hornos Ariston",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_ariston02.webp",
+        "d": "Hornos a gas, eléctricos y combinados: termostatos, resistencias, bisagras, rodamientos y encendidos."
+      },
+      {
+        "name": "Lavavajillas Ariston",
+        "service": "lavavajillas",
+        "image": "2024_05_ariston01.webp",
+        "d": "Bombas de recirculación y de desagote, caudalímetro, electroválvula de entrada, manguera de descarga, placas y motor."
+      },
+      {
+        "name": "Secarropas Ariston",
+        "service": "secarropas",
+        "image": null,
+        "d": "Bombas elevadoras, tensores y correas, resistencias de secado y térmicos, placas, motor y turbinas de secado."
+      }
+    ],
+    "services": [
+      "Lavavajillas: cambio de bomba de recirculación y de bomba de desagote",
+      "Lavavajillas: cambio de caudalímetro, electroválvula de entrada y manguera de descarga",
+      "Lavavajillas: cambio o reparación de placas y cambio de motor o arranque",
+      "Cambio de válvulas de seguridad en hornos, cocinas y anafes a gas",
+      "Cambio de bisagras y rodamientos en hornos y cocinas",
+      "Cambio de termostatos en hornos y cocinas a gas y eléctricos",
+      "Cambio de resistencias en cocinas y hornos eléctricos y combinados",
+      "Cambio de bujías y encendidos, y limpieza y regulación de quemadores en cocinas, hornos y anafes a gas o combinados",
+      "Secarropas: cambio de bombas elevadoras, tensores y correas",
+      "Secarropas: cambio de resistencias de secado y térmicos, placas, arranques de motor, motor y turbinas de secado"
+    ],
+    "intro": [
+      "En MP Group hacemos service de electrodomésticos Ariston en CABA y Zona Norte, con atención personalizada para que tu equipo vuelva a funcionar bien.",
+      "Trabajamos sobre cocinas, hornos y anafes a gas, eléctricos y combinados, lavavajillas y secarropas: desde válvulas de seguridad, termostatos y encendidos hasta bombas, placas y motores."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-domec",
+    "brand": "Domec",
+    "name": "Service Domec",
+    "title": "Service técnico Domec: cocinas, hornos y calefones | MP Group",
+    "description": "Service y reparación de cocinas, hornos, anafes, calefones y termotanques Domec a domicilio en CABA y Zona Norte. Repuestos originales y garantía escrita.",
+    "h1": "Service técnico Domec",
+    "lead": "Reparamos cocinas, hornos, anafes, calefones y termotanques Domec, a gas y eléctricos, a domicilio en CABA y Zona Norte.",
+    "heroImage": "2024_05_hero-domec.webp",
+    "appliances": [
+      {
+        "name": "Cocinas Domec",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_domec04.webp",
+        "d": "Cocinas a gas y eléctricas: válvula de seguridad, encendidos, regulación de llamas, termostatos, llaves selectoras y bisagras."
+      },
+      {
+        "name": "Termotanques Domec",
+        "service": "termotanques",
+        "image": "2024_05_domec01.webp",
+        "d": "Instalación, service y mantenimiento de termotanques Domec."
+      },
+      {
+        "name": "Hornos Domec",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_domec02.webp",
+        "d": "Hornos a gas y eléctricos: termostatos, resistencias grill, de piso y circulares, vidrios y pulsadores."
+      },
+      {
+        "name": "Calefones Domec",
+        "service": "calefones",
+        "image": "2024_05_domec03.webp",
+        "d": "Instalación, service y mantenimiento de calefones Domec."
+      }
+    ],
+    "services": [
+      "Cambio de bisagras y base de rodamientos",
+      "Cambio de válvula de seguridad",
+      "Limpieza y regulación de llamas",
+      "Cambio de vidrios externos e internos",
+      "Cambio de bobinas de encendido",
+      "Cambio y regulación de bujías de encendido",
+      "Cambio y regulación de termostatos a gas y eléctricos",
+      "Cambio de resistencias grill, de piso y circulares",
+      "Cambio de llaves selectoras y cableado",
+      "Cambio de pulsadores de luz y de encendido"
+    ],
+    "intro": [
+      "Sabemos lo frustrante que es cuando la cocina, el horno o el calefón Domec deja de funcionar bien. Por eso hacemos instalación, service y mantenimiento de toda la línea Domec, para que vuelvas a la normalidad lo antes posible.",
+      "Reparamos tanto la línea a gas como la eléctrica, con repuestos originales y garantía por escrito en todos los trabajos."
+    ],
+    "faqs": [
+      {
+        "q": "¿Los trabajos tienen garantía?",
+        "a": "Sí. Todos nuestros servicios tienen garantía y queda por escrito en el momento: en papel y también en la factura y la orden de trabajo en formato digital."
+      },
+      {
+        "q": "¿Qué cocinas y hornos Domec reparan?",
+        "a": "Reparamos tanto la línea a gas como la línea de artefactos eléctricos."
+      },
+      {
+        "q": "¿Usan repuestos originales?",
+        "a": "Sí. Todos los repuestos que usamos son originales, para garantizar el correcto funcionamiento del artefacto reparado."
+      }
+    ]
+  },
+  {
+    "slug": "service-orbis",
+    "brand": "Orbis",
+    "name": "Service Orbis",
+    "title": "Service técnico Orbis: calefones y termotanques | MP Group",
+    "description": "Service técnico de calefones, termotanques, cocinas y hornos Orbis a domicilio en CABA y Zona Norte. Repuestos originales. Escribinos por WhatsApp.",
+    "h1": "Service técnico Orbis",
+    "lead": "Reparamos calefones, termotanques, cocinas, hornos y anafes Orbis a domicilio en CABA y Zona Norte, para que tengas agua caliente y seguridad en tu casa.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Cocinas Orbis",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_orbis03.webp",
+        "d": "Cocinas y anafes a gas y eléctricos: encendido, válvulas de seguridad, quemadores, hornallas y llamas irregulares."
+      },
+      {
+        "name": "Hornos Orbis",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_orbis02.webp",
+        "d": "Hornos a gas y eléctricos: encendido, válvulas de seguridad y control de temperatura."
+      },
+      {
+        "name": "Estufas Orbis",
+        "service": "estufas",
+        "image": "2024_05_orbis01.webp",
+        "d": "Problemas de encendido, pilotos, llamas irregulares o amarillas, regulación y puesta a punto."
+      },
+      {
+        "name": "Calefones Orbis",
+        "service": "calefones",
+        "image": "2024_05_orbis04.webp",
+        "d": "Mantenimiento, limpieza de serpentinas, válvulas de agua, pilotos y diafragmas."
+      },
+      {
+        "name": "Termotanques Orbis",
+        "service": "termotanques",
+        "image": null,
+        "d": "Reparación de termotanques Orbis, limpieza y descalcificación."
+      }
+    ],
+    "services": [
+      "Reparación de estufas",
+      "Mantenimiento y reparación de calefones",
+      "Reparación de termotanques",
+      "Reparación de anafes y hornos a gas y eléctricos",
+      "Diagnóstico y solución de fallas en encendido, válvulas de seguridad y control de temperatura",
+      "Solución de problemas de encendido y de llamas irregulares o amarillas",
+      "Limpieza de quemadores, hornallas y serpentinas, y descalcificación de equipos",
+      "Ajuste y calibración de dispositivos de seguridad y regulación, y puesta a punto de estufas y calefones",
+      "Cambio o reparación de válvulas de agua, pilotos y diafragmas",
+      "Reemplazo de piezas defectuosas o desgastadas"
+    ],
+    "intro": [
+      "En MP Group nos especializamos en la reparación y el service de artefactos Orbis: cocinas, estufas, calefones, termotanques, anafes y hornos a gas y eléctricos, en Capital Federal y Zona Norte.",
+      "Trabajamos con Orbis desde hace más de 20 años y conocemos desde los modelos más antiguos hasta los más modernos. Usamos solo repuestos originales y dejamos la garantía por escrito."
+    ],
+    "faqs": [
+      {
+        "q": "¿Cuánto tardan en ir?",
+        "a": "Depende de la urgencia, pero la visita puede ser en el día o, a más tardar, dentro de las 24 h."
+      },
+      {
+        "q": "¿Las reparaciones de artefactos Orbis tienen garantía?",
+        "a": "Sí. En todos los casos dejamos la garantía por escrito y emitimos factura A o B, según corresponda."
+      },
+      {
+        "q": "¿Usan repuestos originales?",
+        "a": "Sí, trabajamos únicamente con repuestos originales."
+      },
+      {
+        "q": "¿Reparan modelos antiguos de Orbis?",
+        "a": "Sí. Trabajamos con Orbis desde hace más de 20 años y conocemos cada modelo de estufas, calefones, termotanques, anafes y hornos, desde los más antiguos hasta los más modernos."
+      }
+    ]
+  },
+  {
+    "slug": "service-calefones-orbis",
+    "brand": "Orbis",
+    "name": "Service Calefones Orbis",
+    "title": "Service de calefones Orbis en CABA y Zona Norte | MP Group",
+    "description": "Service y reparación de calefones Orbis a domicilio en CABA y Zona Norte: serpentinas, válvula de seguridad, diafragma, encendido y conexiones de gas.",
+    "h1": "Service de calefones Orbis",
+    "lead": "Reparamos y hacemos el mantenimiento de calefones Orbis a domicilio en CABA y Zona Norte, para que vuelvas a tener agua caliente con seguridad.",
+    "heroImage": "2024_05_hero-calefon.webp",
+    "appliances": [
+      {
+        "name": "Calefones Orbis",
+        "service": "calefones",
+        "image": "2024_05_orbis04.webp",
+        "d": "Serpentinas, válvula de seguridad, diafragma, encendido, servomotor, radiador y conexiones de agua y gas."
+      }
+    ],
+    "services": [
+      "Limpieza y mantenimiento de serpentinas",
+      "Cambio de válvula de seguridad",
+      "Reparación de botonera o corredera, según el modelo",
+      "Cambio de diafragma o válvula de agua",
+      "Cambio de encendidos electrónicos o piezoeléctricos",
+      "Soldaduras y cambio de radiador",
+      "Cambio de venturi",
+      "Cambio de servomotor",
+      "Cambio de cableado",
+      "Conexiones de agua y gas"
+    ],
+    "intro": [
+      "Hacemos la reparación y el mantenimiento de calefones Orbis en CABA y Zona Norte. Diagnosticamos cada falla y la reparamos para que tu calefón vuelva a funcionar de forma confiable y segura.",
+      "Conocemos a fondo la marca Orbis y te damos un trato personalizado: escuchamos qué le pasa a tu calefón, respondemos rápido y buscamos una solución duradera que prevenga problemas futuros."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-electrolux",
+    "brand": "Electrolux",
+    "name": "Service Electrolux",
+    "title": "Service técnico Electrolux: heladeras, lavarropas y cocinas | MP Group",
+    "description": "Service y reparación de heladeras, lavarropas y cocinas Electrolux a domicilio en CABA y Zona Norte, con repuestos originales. Consultanos por WhatsApp.",
+    "h1": "Service técnico Electrolux",
+    "lead": "Reparamos heladeras, lavarropas y cocinas Electrolux a domicilio en CABA y Zona Norte, ya sea por una falla o para un mantenimiento preventivo.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Cocinas Electrolux",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_electrolux03.webp",
+        "d": "Válvula de seguridad, termostatos, bisagras, regulación de llamas y encendidos."
+      },
+      {
+        "name": "Heladeras Electrolux",
+        "service": "heladeras",
+        "image": "2024_05_electrolux02.webp",
+        "d": "Placas electrónicas, sensores, forzadores, filtros y máquinas de hielo."
+      },
+      {
+        "name": "Lavarropas Electrolux",
+        "service": "lavarropas",
+        "image": null,
+        "d": "Rulemanes, eje y retén, bomba de desagote y placas electrónicas."
+      }
+    ],
+    "services": [
+      "Cambio de placas electrónicas",
+      "Cambio de rulemanes, eje y retén en lavarropas",
+      "Cambio de bomba de desagote",
+      "Cambio de sensores y forzadores",
+      "Reparación de máquinas de hielo",
+      "Cambio de filtros",
+      "Cambio de bisagras",
+      "Cambio de válvula de seguridad y termostatos",
+      "Limpieza y regulación de llamas",
+      "Cambio y regulación de encendidos"
+    ],
+    "intro": [
+      "Si tu electrodoméstico Electrolux dejó de funcionar o querés hacerle un mantenimiento preventivo, te ayudamos a resolverlo rápido y sin pagar de más. Hacemos instalación, service y mantenimiento de heladeras, lavarropas y cocinas Electrolux.",
+      "Todas las reparaciones se hacen con repuestos originales, con atención personalizada y a domicilio."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-de-hornos-y-cocinas-electrolux",
+    "brand": "Electrolux",
+    "name": "Service de Hornos y Cocinas Electrolux",
+    "title": "Service de hornos y cocinas Electrolux | MP Group",
+    "description": "Service y reparación de hornos y cocinas Electrolux a domicilio en CABA y Zona Norte: instalación, mantenimiento y repuestos originales. Escribinos ahora.",
+    "h1": "Service de hornos y cocinas Electrolux",
+    "lead": "Reparamos, instalamos y hacemos el mantenimiento de hornos y cocinas Electrolux a domicilio en CABA y Zona Norte.",
+    "heroImage": "2024_05_hero-hyc.webp",
+    "appliances": [
+      {
+        "name": "Hornos y cocinas Electrolux",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_electrolux03.webp",
+        "d": "Instalación, mantenimiento y reparación: válvula de seguridad, termostatos, llamas, encendidos y bisagras."
+      }
+    ],
+    "services": [
+      "Instalación de hornos y cocinas",
+      "Mantenimiento y reparación de hornos y cocinas",
+      "Cambio de válvula de seguridad y termostatos",
+      "Limpieza y regulación de llamas",
+      "Cambio y regulación de encendidos",
+      "Cambio de bisagras"
+    ],
+    "intro": [
+      "Nuestro service de hornos y cocinas Electrolux abarca desde la instalación hasta el mantenimiento y la reparación, en todo CABA y Zona Norte. Trabajamos con repuestos originales para que la solución dure.",
+      "Tenemos más de 20 años de experiencia en la reparación de electrodomésticos, con foco especial en hornos y cocinas, y vamos a tu domicilio."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-longvie",
+    "brand": "Longvie",
+    "name": "Service Longvie",
+    "title": "Service técnico Longvie: cocinas, hornos y estufas | MP Group",
+    "description": "Service técnico de cocinas, hornos, estufas, calefones y termotanques Longvie a domicilio en CABA y Zona Norte. Trabajamos con repuestos originales.",
+    "h1": "Service técnico Longvie",
+    "lead": "Reparamos cocinas, hornos, anafes, calefones, termotanques, estufas y lavarropas Longvie a domicilio en CABA y Zona Norte.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Cocinas Longvie",
+        "service": "hornos-y-cocinas",
+        "image": null,
+        "d": "Cocinas y anafes a gas y eléctricos: válvulas de seguridad, llamas, encendidos, termostatos y llaves selectoras."
+      },
+      {
+        "name": "Hornos Longvie",
+        "service": "hornos-y-cocinas",
+        "image": "2024_05_longvie04-1.webp",
+        "d": "Hornos a gas y eléctricos: resistencias, termostatos, bisagras, burletes y perillas."
+      },
+      {
+        "name": "Calefones Longvie",
+        "service": "calefones",
+        "image": null,
+        "d": "Cambio de diafragma, válvulas de seguridad, encendidos y regulación de llamas y pilotos."
+      },
+      {
+        "name": "Termotanques Longvie",
+        "service": "termotanques",
+        "image": "2024_05_longvie01.webp",
+        "d": "Válvulas de seguridad, encendidos, plaquetas y regulación de llamas y pilotos."
+      },
+      {
+        "name": "Estufas Longvie",
+        "service": "estufas",
+        "image": "2024_05_longvie05-1.webp",
+        "d": "Válvulas de seguridad, encendidos y regulación de llamas y pilotos."
+      },
+      {
+        "name": "Lavarropas Longvie",
+        "service": "lavarropas",
+        "image": null,
+        "d": "Service y reparación de lavarropas Longvie con repuestos originales."
+      }
+    ],
+    "services": [
+      "Cambio de válvulas de seguridad",
+      "Limpieza y regulación de llamas en quemadores, hornallas y pilotos",
+      "Cambio de encendidos piezoeléctricos, cajas de encendido eléctricas y bujías",
+      "Cambio de plaquetas",
+      "Cambio de llaves selectoras",
+      "Cambio de pulsadores, burletes y perillas",
+      "Cambio de bisagras y base de rodamientos",
+      "Cambio de diafragma en calefones",
+      "Cambio de resistencias en hornos eléctricos",
+      "Cambio de termostatos en cocinas y hornos a gas y eléctricos"
+    ],
+    "intro": [
+      "En MP Group hacemos instalación, service y mantenimiento de toda la línea Longvie: termotanques, cocinas, hornos, anafes, calefones, estufas y lavarropas. Buscamos soluciones confiables y rápidas que extiendan la vida útil de tus equipos.",
+      "Nuestros técnicos tienen años de experiencia con Longvie, van a tu domicilio y trabajan solo con repuestos originales."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-whirlpool",
+    "brand": "Whirlpool",
+    "name": "Service Whirlpool",
+    "title": "Service técnico Whirlpool: heladeras y lavarropas | MP Group",
+    "description": "Service y reparación de heladeras, freezers, lavarropas, secarropas y lavavajillas Whirlpool a domicilio en CABA y Zona Norte. Escribinos por WhatsApp.",
+    "h1": "Service técnico Whirlpool",
+    "lead": "Reparamos heladeras, freezers, lavarropas, secarropas y lavavajillas Whirlpool a domicilio en CABA y Zona Norte.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Lavarropas Whirlpool",
+        "service": "lavarropas",
+        "image": null,
+        "d": "Mantenimiento y reparación de lavarropas Whirlpool."
+      },
+      {
+        "name": "Lavavajillas Whirlpool",
+        "service": "lavavajillas",
+        "image": null,
+        "d": "Mantenimiento y reparación de lavavajillas Whirlpool."
+      },
+      {
+        "name": "Freezers Whirlpool",
+        "service": "heladeras",
+        "image": null,
+        "d": "Compresor, carga de gas, plaquetas, sensores y forzadores."
+      },
+      {
+        "name": "Heladeras Whirlpool",
+        "service": "heladeras",
+        "image": "2024_06_Service-de-Heladeras-Whirlpool-MP-Group-1.webp",
+        "d": "Heladeras side by side y de dos puertas: compresor, carga de gas, plaquetas, sensores defrost, forzadores y máquinas de hielo."
+      },
+      {
+        "name": "Secarropas Whirlpool",
+        "service": "secarropas",
+        "image": null,
+        "d": "Mantenimiento y reparación de secarropas Whirlpool."
+      }
+    ],
+    "services": [
+      "Cambio de compresor, filtro antihumedad, limpieza de circuito, vacío y carga de gas",
+      "Cambio o reparación de plaquetas",
+      "Cambio de sensores defrost",
+      "Cambio de filtros",
+      "Reparación o cambio de máquinas de hielo",
+      "Cambio de forzadores con y sin sensores",
+      "Limpieza de condensadores en heladeras side by side",
+      "Mantenimiento preventivo de heladeras de dos puertas"
+    ],
+    "intro": [
+      "En MP Group hacemos mantenimiento y reparación de electrodomésticos Whirlpool en CABA y Zona Norte: heladeras, freezers, lavarropas, secarropas y lavavajillas, con atención personalizada.",
+      "Nuestros técnicos capacitados llegan con las herramientas y el conocimiento para resolver la falla, con un trato cordial y transparente desde el primer contacto hasta que termina el trabajo."
+    ],
+    "faqs": []
+  },
+  {
+    "slug": "service-general-electric",
+    "brand": "General Electric",
+    "name": "Service General Electric",
+    "title": "Service técnico General Electric: heladeras side by side | MP Group",
+    "description": "Service técnico de heladeras side by side, lavarropas, lavavajillas y aires General Electric a domicilio en CABA y Zona Norte. Escribinos por WhatsApp.",
+    "h1": "Service técnico General Electric",
+    "lead": "Reparamos heladeras side by side y de dos puertas, lavarropas, secarropas, lavasecarropas, lavavajillas y aires acondicionados General Electric a domicilio en CABA y Zona Norte.",
+    "heroImage": null,
+    "appliances": [
+      {
+        "name": "Heladeras General Electric",
+        "service": "heladeras",
+        "image": null,
+        "d": "Heladeras side by side y de dos puertas: compresor, carga de gas, plaquetas, sensores defrost, forzadores y máquinas de hielo."
+      },
+      {
+        "name": "Lavavajillas General Electric",
+        "service": "lavavajillas",
+        "image": null,
+        "d": "Instalación, reparación y mantenimiento de lavavajillas General Electric."
+      },
+      {
+        "name": "Lavarropas General Electric",
+        "service": "lavarropas",
+        "image": "2024_06_Service-de-Lavarropas-General-Electric-MP-Group.webp",
+        "d": "Reparación y mantenimiento de lavarropas, secarropas y lavasecarropas General Electric."
+      },
+      {
+        "name": "Aires acondicionados General Electric",
+        "service": "aire-acondicionado",
+        "image": null,
+        "d": "Instalación, reparación y mantenimiento de aires acondicionados General Electric."
+      }
+    ],
+    "services": [
+      "Cambio de compresor, filtro antihumedad, limpieza de circuito, vacío y carga de gas",
+      "Cambio o reparación de plaquetas",
+      "Cambio de sensores defrost",
+      "Cambio de filtros",
+      "Reparación o cambio de máquinas de hielo",
+      "Cambio de forzadores con y sin sensores",
+      "Limpieza de condensadores en heladeras side by side",
+      "Mantenimiento preventivo de heladeras de dos puertas"
+    ],
+    "intro": [
+      "En MP Group hacemos instalación, reparación y mantenimiento de electrodomésticos General Electric en CABA y Zona Norte: lavarropas, secarropas, lavasecarropas, heladeras, aires acondicionados y lavavajillas, tanto por una urgencia como para un mantenimiento regular.",
+      "Nuestros técnicos capacitados se ocupan de que tus equipos General Electric vuelvan a rendir al máximo."
+    ],
+    "faqs": []
+  }
+]

@@ -1,0 +1,137 @@
+{
+ "_nota": "Pedido de Maxi (MP Group) 17/10: horno (no anafe) en hornos y cocinas, heladera de dos puertas en heladeras, horno eléctrico en Ariston, heladera doble puerta en General Electric y prioridad al acero inoxidable (salvo calefones y estufas). 'inox' va primero en heros, productos y galerías.",
+ "hero": {
+  "svc:heladeras": "real-heladeras-general-electric-5",
+  "svc:hornos-y-cocinas": "real-hornos-y-cocinas-equipo-4",
+  "brand:service-ariston": "real-hornos-y-cocinas-ariston-13",
+  "brand:service-general-electric": "real-heladeras-general-electric-4",
+  "brand:service-de-heladeras-samsung": "real-heladeras-samsung-2",
+  "brand:service-whirlpool": "real-heladeras-whirlpool-1",
+  "brand:service-lg": "real-heladeras-lg-1",
+  "brand:service-domec": "real-hornos-y-cocinas-domec-5",
+  "brand:service-longvie": "real-hornos-y-cocinas-longvie-9",
+  "brand:service-orbis": "real-calefones-orbis-3",
+  "svc:lavarropas": "real-lavarropas-lg-8",
+  "brand:service-samsung": "real-heladeras-samsung-2",
+  "svc:estufas": "real-estufas-equipo-1",
+  "brand:service-calefones-orbis": "real-calefones-orbis-3"
+ },
+ "inox": [
+  "real-heladeras-ariston-1",
+  "real-heladeras-ariston-2",
+  "real-heladeras-ariston-3",
+  "real-heladeras-ariston-4",
+  "real-heladeras-general-electric-1",
+  "real-heladeras-general-electric-2",
+  "real-heladeras-general-electric-3",
+  "real-heladeras-lg-1",
+  "real-heladeras-samsung-1",
+  "real-heladeras-whirlpool-1",
+  "real-heladeras-whirlpool-2",
+  "real-hornos-y-cocinas-ariston-1",
+  "real-hornos-y-cocinas-ariston-2",
+  "real-hornos-y-cocinas-ariston-6",
+  "real-hornos-y-cocinas-ariston-7",
+  "real-hornos-y-cocinas-ariston-8",
+  "real-hornos-y-cocinas-ariston-9",
+  "real-hornos-y-cocinas-ariston-11",
+  "real-hornos-y-cocinas-ariston-12",
+  "real-hornos-y-cocinas-domec-1",
+  "real-hornos-y-cocinas-domec-2",
+  "real-hornos-y-cocinas-domec-5",
+  "real-hornos-y-cocinas-domec-6",
+  "real-hornos-y-cocinas-electrolux-1",
+  "real-hornos-y-cocinas-longvie-1",
+  "real-hornos-y-cocinas-longvie-2",
+  "real-hornos-y-cocinas-longvie-3",
+  "real-hornos-y-cocinas-longvie-4",
+  "real-hornos-y-cocinas-longvie-7",
+  "real-hornos-y-cocinas-longvie-8",
+  "real-hornos-y-cocinas-longvie-9",
+  "real-hornos-y-cocinas-longvie-10",
+  "real-hornos-y-cocinas-orbis-4",
+  "real-hornos-y-cocinas-orbis-5",
+  "real-hornos-y-cocinas-orbis-7",
+  "real-hornos-y-cocinas-orbis-8",
+  "real-hornos-y-cocinas-samsung-1",
+  "real-hornos-y-cocinas-samsung-2",
+  "real-hornos-y-cocinas-whirlpool-1",
+  "real-hornos-y-cocinas-equipo-1",
+  "real-hornos-y-cocinas-equipo-2",
+  "real-hornos-y-cocinas-equipo-3",
+  "real-lavarropas-ariston-2",
+  "real-lavarropas-ariston-4",
+  "real-lavarropas-ariston-7",
+  "real-lavarropas-drean-2",
+  "real-lavarropas-drean-3",
+  "real-lavarropas-drean-4",
+  "real-lavarropas-general-electric-2",
+  "real-lavarropas-general-electric-3",
+  "real-lavarropas-lg-3",
+  "real-lavarropas-lg-5",
+  "real-lavarropas-lg-6",
+  "real-lavarropas-lg-7",
+  "real-lavarropas-lg-8",
+  "real-lavarropas-longvie-1",
+  "real-lavarropas-samsung-3",
+  "real-lavarropas-samsung-4",
+  "real-lavarropas-samsung-5",
+  "real-lavarropas-whirlpool-3",
+  "real-lavavajillas-ariston-2",
+  "real-lavavajillas-lg-1",
+  "real-lavavajillas-lg-2",
+  "real-lavavajillas-lg-3",
+  "real-lavavajillas-lg-4",
+  "real-lavavajillas-samsung-1",
+  "real-lavavajillas-samsung-2",
+  "real-lavavajillas-whirlpool-1",
+  "real-lavavajillas-whirlpool-2",
+  "real-lavavajillas-whirlpool-3",
+  "real-secarropas-samsung-1",
+  "real-hornos-y-cocinas-ariston-13",
+  "real-hornos-y-cocinas-equipo-4",
+  "real-heladeras-samsung-2",
+  "real-heladeras-general-electric-4",
+  "real-heladeras-general-electric-5"
+ ],
+ "orden": {
+  "service-samsung": [
+   "heladeras",
+   "lavarropas",
+   "secarropas"
+  ],
+  "service-lg": [
+   "heladeras",
+   "lavarropas",
+   "secarropas"
+  ],
+  "service-whirlpool": [
+   "heladeras",
+   "lavarropas",
+   "secarropas"
+  ],
+  "service-general-electric": [
+   "heladeras"
+  ],
+  "service-orbis": [
+   "calefones",
+   "termotanques"
+  ],
+  "service-longvie": [
+   "hornos-y-cocinas",
+   "estufas"
+  ]
+ },
+ "quitar": {
+  "service-orbis": [
+   "estufas"
+  ]
+ },
+ "sinFotos": [
+  [
+   "estufas",
+   "orbis"
+  ]
+ ],
+ "_nota2": "Reunión 21/10 con Maxi: alta gama y metalizado; Orbis = calefones; Longvie = cocinas/hornos y estufas (gas); GE = heladeras side by side; Samsung/LG/Whirlpool = heladeras, lavarropas, secarropas; sin estufas Orbis (discontinuadas). Fotos de Maxi en content/real-raw/Maxi."
+}

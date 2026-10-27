@@ -1,0 +1,1406 @@
+[
+ {
+  "base": "real-aire-acondicionado-bgh-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "BGH",
+  "marcaSlug": "bgh",
+  "score": 5.12,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-bgh-2",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "BGH",
+  "marcaSlug": "bgh",
+  "score": 4.33,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-bgh-3",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "BGH",
+  "marcaSlug": "bgh",
+  "score": 3.07,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-lg-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.49,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-equipo-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 3.87,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-philips-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Philips",
+  "marcaSlug": "philips",
+  "score": 4.96,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-philips-2",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Philips",
+  "marcaSlug": "philips",
+  "score": 4.69,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-samsung-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.09,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-samsung-2",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.0,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-samsung-3",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 4.47,
+  "vertical": false
+ },
+ {
+  "base": "real-aire-acondicionado-whirlpool-1",
+  "servicio": "aire-acondicionado",
+  "equipo": "Aire acondicionado",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.56,
+  "vertical": false
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.42,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.01,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-3",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.89,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-4",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.01,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.42,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.46,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.3,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-3",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 4.97,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-samsung-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.45,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-samsung-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Anafe",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.45,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-domec-1",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 3.32,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-lg-1",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.02,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-longvie-1",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.63,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-longvie-2",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.46,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-longvie-3",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 4.84,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-longvie-4",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 4.29,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-orbis-1",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.97,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-orbis-2",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.67,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-orbis-3",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.34,
+  "vertical": true
+ },
+ {
+  "base": "real-calefones-equipo-1",
+  "servicio": "calefones",
+  "equipo": "Calefón",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 5.13,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-5",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.13,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-6",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.73,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-7",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.55,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-8",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.49,
+  "vertical": false
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.78,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-3",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.64,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-4",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.64,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-electrolux-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Electrolux",
+  "marcaSlug": "electrolux",
+  "score": 6.4,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-4",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.88,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-5",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.74,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-6",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.64,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-7",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.55,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.61,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.54,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-3",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.53,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-4",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.53,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-whirlpool-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Cocina",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.93,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-longvie-1",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.59,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-longvie-2",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.49,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-longvie-3",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.36,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-longvie-4",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.31,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-orbis-1",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.0,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-orbis-2",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 4.79,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-orbis-3",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 4.07,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-orbis-4",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 3.49,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-ariston-1",
+  "servicio": "heladeras",
+  "equipo": "Freezer",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.77,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-ariston-2",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.39,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-ariston-3",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.9,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-ariston-4",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.49,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-general-electric-1",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 5.77,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-general-electric-2",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 5.52,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-general-electric-3",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 4.75,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-lg-1",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.5,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-longvie-1",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 4.72,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-samsung-1",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.21,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-whirlpool-1",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.1,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-whirlpool-2",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.82,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-9",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.63,
+  "vertical": false
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-10",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.56,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-11",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.52,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-12",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.47,
+  "vertical": false
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-5",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.38,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-domec-6",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Domec",
+  "marcaSlug": "domec",
+  "score": 6.17,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-8",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.68,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-9",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.65,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-longvie-10",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.42,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-5",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.43,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-6",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 6.25,
+  "vertical": false
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-7",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.77,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-orbis-8",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 5.6,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-equipo-1",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 6.16,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-equipo-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 6.09,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-equipo-3",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 5.47,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-whirlpool-2",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.0,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.82,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.75,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.69,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.68,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-drean-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Drean",
+  "marcaSlug": "drean",
+  "score": 6.69,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-drean-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Drean",
+  "marcaSlug": "drean",
+  "score": 6.2,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-drean-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Drean",
+  "marcaSlug": "drean",
+  "score": 6.15,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-drean-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Drean",
+  "marcaSlug": "drean",
+  "score": 5.75,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-general-electric-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 6.77,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-general-electric-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 6.36,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-general-electric-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 5.92,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-general-electric-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 5.77,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 7.2,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 7.1,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.93,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.87,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-longvie-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.24,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-longvie-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.2,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-longvie-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.69,
+  "vertical": false
+ },
+ {
+  "base": "real-lavarropas-longvie-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.59,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 7.07,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.5,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.48,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-equipo-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 5.84,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-whirlpool-1",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.32,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-whirlpool-2",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.14,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-whirlpool-3",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.99,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-whirlpool-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavarropas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.9,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-5",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.0,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-6",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.87,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-ariston-7",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 5.67,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-5",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 7.12,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-6",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.97,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-7",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.79,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-lg-8",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.42,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-longvie-5",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 6.13,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-longvie-6",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 5.43,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-4",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.77,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-5",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.67,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-6",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.5,
+  "vertical": true
+ },
+ {
+  "base": "real-lavarropas-samsung-7",
+  "servicio": "lavarropas",
+  "equipo": "Lavasecarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.3,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-ariston-1",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.26,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-ariston-2",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 7.24,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-ariston-3",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.8,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-ariston-4",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.71,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-candy-1",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Candy",
+  "marcaSlug": "candy",
+  "score": 4.74,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-lg-1",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 6.07,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-lg-2",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.99,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-lg-3",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.65,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-lg-4",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "LG",
+  "marcaSlug": "lg",
+  "score": 5.4,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-samsung-1",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 6.34,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-samsung-2",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.92,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-whirlpool-1",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.48,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-whirlpool-2",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.9,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-whirlpool-3",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.66,
+  "vertical": true
+ },
+ {
+  "base": "real-lavavajillas-whirlpool-4",
+  "servicio": "lavavajillas",
+  "equipo": "Lavavajillas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 5.45,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-ariston-1",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.51,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-ariston-2",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.46,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-ariston-3",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.37,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-ariston-4",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 6.29,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-samsung-1",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 5.55,
+  "vertical": true
+ },
+ {
+  "base": "real-secarropas-whirlpool-1",
+  "servicio": "secarropas",
+  "equipo": "Secarropas",
+  "marca": "Whirlpool",
+  "marcaSlug": "whirlpool",
+  "score": 6.18,
+  "vertical": true
+ },
+ {
+  "base": "real-termotanques-orbis-1",
+  "servicio": "termotanques",
+  "equipo": "Termotanque",
+  "marca": "Orbis",
+  "marcaSlug": "orbis",
+  "score": 2.89,
+  "vertical": true
+ },
+ {
+  "base": "real-termotanques-equipo-1",
+  "servicio": "termotanques",
+  "equipo": "Termotanque",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 5.44,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-ariston-13",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": "Ariston",
+  "marcaSlug": "ariston",
+  "score": 99,
+  "vertical": true
+ },
+ {
+  "base": "real-hornos-y-cocinas-equipo-4",
+  "servicio": "hornos-y-cocinas",
+  "equipo": "Horno",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 99,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-samsung-2",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "Samsung",
+  "marcaSlug": "samsung",
+  "score": 99,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-general-electric-4",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 99,
+  "vertical": true
+ },
+ {
+  "base": "real-heladeras-general-electric-5",
+  "servicio": "heladeras",
+  "equipo": "Heladera",
+  "marca": "General Electric",
+  "marcaSlug": "general-electric",
+  "score": 99,
+  "vertical": true
+ },
+ {
+  "base": "real-estufas-longvie-5",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": "Longvie",
+  "marcaSlug": "longvie",
+  "score": 99,
+  "vertical": false
+ },
+ {
+  "base": "real-estufas-equipo-1",
+  "servicio": "estufas",
+  "equipo": "Estufa",
+  "marca": null,
+  "marcaSlug": null,
+  "score": 99,
+  "vertical": false
+ }
+]

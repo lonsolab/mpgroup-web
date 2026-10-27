@@ -1,0 +1,437 @@
+[
+  {
+    "slug": "lavarropas",
+    "name": "Lavarropas",
+    "noun": "lavarropas",
+    "title": "Service de lavarropas de todas las marcas | MP Group",
+    "description": "Service y reparación de lavarropas de todas las marcas a domicilio en CABA y Zona Norte. Técnico en el día o dentro de las 24 h, con repuestos y garantía. ¡Consultanos!",
+    "h1": "Service y reparación de lavarropas",
+    "lead": "Un técnico va a tu casa en CABA o Zona Norte en el día o dentro de las 24 h, con los repuestos para dejar tu lavarropas funcionando en la misma visita.",
+    "heroImage": "2024_05_hero-lavarropas-scaled.webp",
+    "repairs": [
+      {"t": "Mantenimiento preventivo", "d": "Revisamos el equipo para anticiparnos a fallas antes de que aparezcan."},
+      {"t": "Limpieza interna", "d": "Limpiamos bomba de agua, filtros y conductos para que el lavarropas cargue y desagote bien."},
+      {"t": "Cambio de piezas gastadas", "d": "Reparamos o reemplazamos correas, rodamientos, bombas, mangueras, válvulas e interruptores."},
+      {"t": "Pérdidas de agua y desagote", "d": "Resolvemos fugas y problemas de drenaje, desde una junta gastada hasta una manguera floja."},
+      {"t": "Fallas eléctricas y electrónicas", "d": "Diagnosticamos y reparamos el panel de control, el temporizador, cables dañados y enchufes defectuosos."},
+      {"t": "Ajuste y calibración", "d": "Alineamos y calibramos piezas que afectan el rendimiento del lavado."},
+      {"t": "Limpieza y desinfección", "d": "Eliminamos moho y restos de detergente que empeoran el lavado y generan malos olores."}
+    ],
+    "faults": [
+      {"t": "No desagota", "d": "Suele ser el filtro de pelusa o la bomba de drenaje obstruidos.", "wa": "mi lavarropas no desagota"},
+      {"t": "Pierde agua", "d": "Una junta desgastada, una manguera suelta o el desagüe tapado.", "wa": "mi lavarropas pierde agua"},
+      {"t": "Hace mucho ruido", "d": "Puede ser una falla del motor o de los rodamientos del tambor.", "wa": "mi lavarropas hace mucho ruido"},
+      {"t": "El tambor no gira bien", "d": "Objetos atrapados, soportes dañados o rodamientos gastados.", "wa": "el tambor de mi lavarropas no gira bien"},
+      {"t": "No enciende o el panel falla", "d": "Problemas en el panel de control, el temporizador o un cortocircuito.", "wa": "mi lavarropas no enciende o le falla el panel"},
+      {"t": "Tiene mal olor", "d": "Acumulación de moho y restos de detergente en el interior.", "wa": "mi lavarropas tiene mal olor"}
+    ],
+    "brands": ["Samsung", "Whirlpool", "LG", "Longvie", "General Electric", "Electrolux", "Ariston"],
+    "tips": {
+      "title": "Consejos para cuidar tu lavarropas",
+      "intro": "Es uno de los electrodomésticos que más se usa en casa. Con estos cuidados simples dura más y falla menos.",
+      "items": [
+        {"t": "Hacé un lavado de limpieza por mes", "d": "Un lavado en vacío con agua caliente y vinagre blanco elimina sarro, restos de jabón, moho y olores."},
+        {"t": "Limpiá el filtro una vez por mes", "d": "Retiene pelusa y objetos chicos que pueden tapar el desagote. Hacelo con el lavarropas desenchufado."},
+        {"t": "No lo sobrecargues", "d": "El exceso de ropa lo desequilibra y daña el tambor y la suspensión. Respetá la carga que indica el fabricante."},
+        {"t": "Revisá las mangueras", "d": "Las de entrada y salida de agua pueden taparse con sedimentos. Si ves que una pierde o está floja, avisanos."},
+        {"t": "Fijate que no quede nada en el tambor", "d": "Monedas, botones u otros objetos pueden trabarlo o dañarlo."}
+      ]
+    },
+    "faqs": [
+      {"q": "Mi lavarropas no desagota, ¿qué hago?", "a": "Con el equipo desenchufado, limpiá el filtro. Si después de eso sigue sin desagotar, escribinos y mandamos un técnico."},
+      {"q": "Pierde agua por la base, ¿qué puede ser?", "a": "Lo más probable es que el desagüe esté tapado. Si después de limpiarlo la pérdida sigue, escribinos cuanto antes para evitar daños mayores."},
+      {"q": "¿Cómo evito que vuelva a fallar?", "a": "Limpiá el filtro y hacé un lavado intensivo con vinagre una vez por mes para eliminar restos de jabón y sarro."},
+      {"q": "¿En cuánto tiempo viene el técnico?", "a": "En menos de 24 h, en CABA y Zona Norte, y lleva los repuestos para resolver la falla en la misma visita."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de lavarropas a domicilio en CABA y Zona Norte: desde una pérdida de agua o un filtro tapado hasta fallas en el motor, los rodamientos o la placa electrónica. Trabajamos con lavarropas Samsung, Whirlpool, LG, Longvie, General Electric, Electrolux y Ariston.",
+      "Tenemos 20 años de experiencia y todos nuestros trabajos tienen garantía. Contanos por WhatsApp qué le pasa a tu lavarropas y coordinamos la visita."
+    ]
+  },
+  {
+    "slug": "secarropas",
+    "name": "Secarropas",
+    "noun": "secarropas",
+    "title": "Service y reparación de secarropas en CABA | MP Group",
+    "description": "Service técnico, reparación y mantenimiento de secarropas Ariston y Whirlpool a domicilio en CABA y Zona Norte. Técnico en el día o dentro de las 24 h. Pedí tu presupuesto.",
+    "h1": "Service y reparación de secarropas",
+    "lead": "Reparamos tu secarropas a domicilio en CABA y Zona Norte: el técnico va en el día o dentro de las 24 h y lleva los repuestos para resolverlo en la visita.",
+    "heroImage": "2024_05_fondo-secarropas-hero.webp",
+    "repairs": [
+      {"t": "Secarropas de tambor", "d": "Nos especializamos en el tipo más común: calienta el aire que circula por la ropa en un tambor giratorio y saca la humedad por un conducto de ventilación."},
+      {"t": "Fallas de encendido", "d": "Revisamos la parte eléctrica y reemplazamos interruptores defectuosos."},
+      {"t": "Cambio de resistencia", "d": "Es la fuente de calor del secarropas: si funciona pero no calienta, suele ser la resistencia."},
+      {"t": "Correas y tambor", "d": "Lubricamos o reemplazamos correas y reparamos el tambor cuando hay ruidos o no gira."},
+      {"t": "Filtro y salida de aire", "d": "Limpiamos obstrucciones que alargan los ciclos y dejan la ropa húmeda."},
+      {"t": "Mantenimiento preventivo", "d": "Una revisión a tiempo evita fallas, ahorra energía y alarga la vida útil del equipo."}
+    ],
+    "faults": [
+      {"t": "No enciende", "d": "Puede ser un problema eléctrico o un interruptor defectuoso.", "wa": "mi secarropas no enciende"},
+      {"t": "Funciona pero no calienta", "d": "Lo más común es que haya que cambiar la resistencia.", "wa": "mi secarropas funciona pero no calienta"},
+      {"t": "La ropa sale húmeda", "d": "Ciclos más largos de lo normal suelen indicar el filtro obstruido o la salida de aire bloqueada.", "wa": "mi secarropas no seca bien la ropa"},
+      {"t": "Hace ruidos extraños", "d": "Puede ser un problema en el tambor o en las correas.", "wa": "mi secarropas hace ruidos extraños"},
+      {"t": "Se detiene a mitad del ciclo", "d": "Conviene revisarlo antes de que la falla empeore.", "wa": "mi secarropas se detiene a mitad del ciclo"}
+    ],
+    "brands": ["Ariston", "Whirlpool"],
+    "tips": {
+      "title": "Consejos para cuidar tu secarropas",
+      "intro": "Un secarropas en buen estado seca mejor, gasta menos energía y cuida tus prendas.",
+      "items": [
+        {"t": "Limpiá el filtro de pelusa después de cada uso", "d": "Un filtro tapado hace trabajar de más al equipo, aumenta el consumo y el riesgo de incendio."},
+        {"t": "Mantené libre la ventilación", "d": "Una salida de aire bloqueada baja la eficiencia y puede causar sobrecalentamiento."},
+        {"t": "Revisá el tambor", "d": "Botones o monedas atrapados pueden dañar el tambor y el motor."},
+        {"t": "No lo sobrecargues", "d": "Respetá la capacidad recomendada; si hace falta, dividí la ropa en cargas más chicas."},
+        {"t": "Elegí el programa según la tela", "d": "Un programa incorrecto alarga el secado y aumenta el consumo."},
+        {"t": "Usalo con carga completa", "d": "Esperar a juntar una carga completa, o secar al aire cuando se puede, ahorra energía."}
+      ]
+    },
+    "faqs": [
+      {"q": "¿Qué marcas de secarropas reparan?", "a": "Nos especializamos en secarropas Ariston y Whirlpool."},
+      {"q": "La ropa sale húmeda o tarda mucho en secar, ¿qué reviso?", "a": "Limpiá el filtro de pelusa y fijate que la salida de aire no esté tapada. Si sigue igual, escribinos y lo revisamos."},
+      {"q": "¿Las reparaciones tienen garantía?", "a": "Sí. Tenemos más de 20 años de experiencia y todos nuestros trabajos tienen garantía."},
+      {"q": "¿Cómo se paga?", "a": "En efectivo o por transferencia. Hacemos factura A o B."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service, reparación y mantenimiento de secarropas a domicilio en CABA y Zona Norte. Nos especializamos en secarropas de tambor Ariston y Whirlpool: resolvemos fallas de encendido, resistencias que no calientan, ruidos en el tambor o las correas y ciclos que no terminan de secar.",
+      "Escribinos por WhatsApp, contanos qué le pasa a tu secarropas y coordinamos la visita del técnico."
+    ]
+  },
+  {
+    "slug": "lavavajillas",
+    "name": "Lavavajillas",
+    "noun": "lavavajillas",
+    "title": "Service de lavavajillas a domicilio en CABA | MP Group",
+    "description": "Service de lavavajillas a domicilio en CABA y Zona Norte. Reparamos bombas, electroválvulas, placas y motores. Técnico en el día o dentro de las 24 h. ¡Escribinos!",
+    "h1": "Service y reparación de lavavajillas",
+    "lead": "Técnico a domicilio en CABA y Zona Norte en el día o dentro de las 24 h, con los repuestos para reparar tu lavavajillas en la misma visita.",
+    "heroImage": null,
+    "repairs": [
+      {"t": "Bomba de recirculación", "d": "Es la que mueve el agua dentro del lavavajillas para que los platos salgan limpios."},
+      {"t": "Bomba de desagote", "d": "Cambio de la bomba cuando el equipo no saca el agua o drena lento."},
+      {"t": "Caudalímetro", "d": "Reemplazo del caudalímetro, que controla el agua que entra."},
+      {"t": "Manguera de descarga", "d": "Cambio de mangueras dañadas u obstruidas."},
+      {"t": "Electroválvula de entrada", "d": "Cambio de la válvula cuando el lavavajillas no carga agua o carga poca."},
+      {"t": "Placas electrónicas", "d": "Reparación o cambio de placas."},
+      {"t": "Motor y arranque", "d": "Cambio del motor o del arranque, que hacen girar las aspas."}
+    ],
+    "faults": [
+      {"t": "No desagota o drena lento", "d": "Restos de comida o grasa en el filtro o en el tubo de desagüe, o una falla en la bomba.", "wa": "mi lavavajillas no desagota"},
+      {"t": "No carga agua", "d": "Puede ser una obstrucción o una falla eléctrica en la válvula de entrada.", "wa": "mi lavavajillas no carga agua"},
+      {"t": "Los platos salen sucios", "d": "Suele ser la bomba de circulación, el motor o las aspas.", "wa": "mi lavavajillas deja los platos sucios"},
+      {"t": "Pierde agua", "d": "Una obstrucción en las cañerías o una falla en la junta de la puerta.", "wa": "mi lavavajillas pierde agua"},
+      {"t": "No enciende", "d": "Un problema en la alimentación eléctrica o en el circuito del equipo.", "wa": "mi lavavajillas no enciende"},
+      {"t": "Hace ruidos extraños", "d": "Puede ser una falla en el motor o en las aspas.", "wa": "mi lavavajillas hace ruidos extraños"}
+    ],
+    "brands": ["Samsung", "Whirlpool", "LG", "Ariston"],
+    "tips": {
+      "title": "Consejos para cuidar tu lavavajillas",
+      "intro": "La mayoría de las fallas empiezan chicas. Estos hábitos ayudan a evitarlas o a detectarlas a tiempo.",
+      "items": [
+        {"t": "Sacá los restos de comida antes de cargar", "d": "La comida y la grasa son la causa más común de un desagote lento o tapado."},
+        {"t": "Mantené limpio el filtro", "d": "Si ves restos acumulados en el filtro, limpialo para que el agua drene bien."},
+        {"t": "Mirá la junta de la puerta", "d": "Si está dañada puede haber pérdidas que arruinan el piso o los muebles cercanos."},
+        {"t": "No dejes pasar los ruidos raros", "d": "Avisanos apenas aparezcan: atenderlos a tiempo evita daños mayores en el motor."}
+      ]
+    },
+    "faqs": [
+      {"q": "Mi lavavajillas no enciende, ¿qué reviso antes de llamar?", "a": "Fijate que esté enchufado y que el interruptor de encendido esté en la posición correcta. Si todo está bien y sigue sin encender, escribinos."},
+      {"q": "Los platos salen sucios, ¿tiene arreglo?", "a": "Sí. Muchas veces es algo simple; si el problema sigue, puede ser la bomba de circulación, el motor o las aspas, y lo resolvemos en la visita."},
+      {"q": "¿Qué repuestos usan?", "a": "Trabajamos con repuestos originales y de alta calidad, y el técnico los lleva para resolver la falla en la misma visita."},
+      {"q": "¿En qué zonas trabajan?", "a": "En toda CABA y Zona Norte. El técnico va a tu casa en el día o dentro de las 24 h."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de lavavajillas a domicilio en CABA y Zona Norte. Cambiamos bombas de recirculación y de desagote, caudalímetros, mangueras de descarga, electroválvulas, placas y motores de lavavajillas Samsung, Whirlpool, LG y Ariston.",
+      "Si tu lavavajillas no desagota, pierde agua o deja los platos sucios, escribinos por WhatsApp: te atendemos con técnicos capacitados y garantía en todos los trabajos."
+    ]
+  },
+  {
+    "slug": "heladeras",
+    "name": "Heladeras",
+    "noun": "heladeras",
+    "title": "Service de heladeras de todas las marcas | MP Group",
+    "description": "Service técnico y reparación de heladeras de todas las marcas a domicilio en CABA y Zona Norte. Compresor, carga de gas, plaquetas y No Frost. ¡Consultanos!",
+    "h1": "Service y reparación de heladeras",
+    "lead": "Si tu heladera dejó de enfriar, un técnico va a tu casa en CABA o Zona Norte en el día o dentro de las 24 h, con los repuestos para resolverlo en la visita.",
+    "heroImage": null,
+    "repairs": [
+      {"t": "Compresor y carga de gas", "d": "Cambio de compresor y filtro antihumedad, limpieza del circuito, vacío y carga de gas."},
+      {"t": "Plaquetas", "d": "Reparación o cambio de plaquetas electrónicas."},
+      {"t": "Sensores defrost", "d": "Cambio de los sensores del sistema de descongelamiento."},
+      {"t": "Forzadores", "d": "Cambio de forzadores (ventiladores) con y sin sensores."},
+      {"t": "Máquinas de hielo", "d": "Reparación o cambio de máquinas de hielo."},
+      {"t": "Cambio de filtros", "d": "Reemplazo de los filtros de la heladera."},
+      {"t": "Heladeras side by side", "d": "Limpieza de condensadores."},
+      {"t": "Mantenimiento preventivo", "d": "Revisión completa de heladeras de dos puertas."}
+    ],
+    "faults": [
+      {"t": "No enfría", "d": "Puede ser el compresor, falta de gas, un sensor o la plaqueta.", "wa": "mi heladera no enfría"},
+      {"t": "La No Frost no enfría bien", "d": "Sensores defrost o forzadores con falla, o el condensador sucio.", "wa": "mi heladera No Frost no enfría bien"},
+      {"t": "Pierde frío por la puerta", "d": "La junta (burlete) puede estar gastada o agrietada.", "wa": "mi heladera pierde frío por la puerta"},
+      {"t": "No funciona la máquina de hielo", "d": "Se repara o se cambia.", "wa": "no funciona la máquina de hielo de mi heladera"},
+      {"t": "Hace ruido o no anda el ventilador", "d": "Suele ser el forzador.", "wa": "mi heladera hace ruido"}
+    ],
+    "brands": ["Samsung", "Whirlpool", "LG", "General Electric", "Electrolux", "Ariston"],
+    "tips": {
+      "title": "Consejos para cuidar tu heladera",
+      "intro": "Antes de llamar, estos puntos pueden mejorar mucho el enfriamiento. Y si los cumplís, la heladera trabaja menos y dura más.",
+      "items": [
+        {"t": "Revisá la temperatura", "d": "El refrigerador funciona bien entre 3 y 4 °C y el freezer a -18 °C. Podés controlarlo con un termómetro de heladera durante 24 h."},
+        {"t": "No la sobrecargues", "d": "Dejá espacio entre los alimentos y las paredes para que circule el aire frío. Agrupar todo en recipientes transparentes ayuda a abrir menos la puerta."},
+        {"t": "Dejale espacio para ventilar", "d": "Al menos 5 cm entre la parte de atrás y la pared, y 2 cm a los costados, para que el condensador disipe el calor."},
+        {"t": "Probá el burlete de la puerta", "d": "Cerrá la puerta sobre una hoja de papel: si sale sin resistencia, la junta probablemente necesita cambio. Limpiala con agua y jabón suave y secala bien."},
+        {"t": "Quitale el polvo al condensador", "d": "Dos veces por año, con la heladera desenchufada, pasá la aspiradora con un cepillo suave por las bobinas de atrás o de abajo, sin desarmar nada."}
+      ]
+    },
+    "faqs": [
+      {"q": "Mi heladera No Frost no enfría, ¿qué reviso antes de llamar?", "a": "Fijate que la temperatura esté bien regulada, que no esté sobrecargada, que tenga espacio para ventilar y que el burlete cierre bien. Si con eso no mejora, escribinos."},
+      {"q": "¿Hacen carga de gas?", "a": "Sí. Hacemos vacío y carga de gas, y también cambio de compresor y filtro antihumedad con limpieza del circuito."},
+      {"q": "¿Qué marcas de heladeras reparan?", "a": "Trabajamos con Samsung, Whirlpool, LG, General Electric, Electrolux y Ariston, entre otras."},
+      {"q": "¿En cuánto tiempo viene el técnico?", "a": "En menos de 24 h, en CABA y Zona Norte. Lleva los repuestos para resolver la falla en la visita."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de heladeras a domicilio en CABA y Zona Norte: cambio de compresor, vacío y carga de gas, plaquetas, sensores defrost, forzadores y máquinas de hielo. Atendemos heladeras con freezer, No Frost, de dos puertas y side by side.",
+      "Tenemos 20 años de experiencia y garantía en todos los trabajos. Si tu heladera no enfría, escribinos por WhatsApp y coordinamos la visita."
+    ]
+  },
+  {
+    "slug": "termotanques",
+    "name": "Termotanques",
+    "noun": "termotanques",
+    "title": "Service y reparación de termotanques a gas | MP Group",
+    "description": "Service técnico, reparación y mantenimiento de termotanques a gas en CABA y Zona Norte. Termostato, piloto, quemador y pérdidas. ¡Pedí tu presupuesto!",
+    "h1": "Service y reparación de termotanques",
+    "lead": "Reparamos y mantenemos tu termotanque a gas a domicilio en CABA y Zona Norte. El técnico va en el día o dentro de las 24 h, con los repuestos.",
+    "heroImage": "2024_05_hero-termo.webp",
+    "repairs": [
+      {"t": "Termostato", "d": "Reemplazo del termostato."},
+      {"t": "Piloto", "d": "Reparación o cambio del piloto."},
+      {"t": "Quemador", "d": "Limpieza o reemplazo del quemador."},
+      {"t": "Válvula de alivio de presión", "d": "Reemplazo de la válvula de alivio."},
+      {"t": "Válvula de seguridad", "d": "Cambio de la válvula de seguridad."},
+      {"t": "Pérdidas de agua", "d": "Reparación de fugas."},
+      {"t": "Purga de sedimentos", "d": "Limpieza del sarro y los sedimentos que se acumulan en el fondo del tanque y le quitan rendimiento."}
+    ],
+    "faults": [
+      {"t": "El agua sale tibia o fría", "d": "Puede haber sedimentos en el tanque o una falla en el termostato o el quemador.", "wa": "mi termotanque no calienta bien el agua"},
+      {"t": "No enciende el piloto", "d": "El piloto no prende o no se mantiene encendido.", "wa": "a mi termotanque no le enciende el piloto"},
+      {"t": "Pierde agua", "d": "Puede ser la válvula de alivio o una pérdida en el equipo.", "wa": "mi termotanque pierde agua"},
+      {"t": "Hace ruidos extraños", "d": "Una señal típica de sedimentos acumulados.", "wa": "mi termotanque hace ruidos"},
+      {"t": "El agua sale turbia o con olor", "d": "Suele indicar que necesita una purga.", "wa": "el agua de mi termotanque sale turbia o con olor"}
+    ],
+    "brands": [],
+    "tips": {
+      "title": "Consejos para cuidar tu termotanque",
+      "intro": "Un termotanque bien mantenido calienta mejor, gasta menos y dura más.",
+      "items": [
+        {"t": "Programá una purga por año", "d": "Sacar los sedimentos del fondo mejora la eficiencia, la calidad del agua y alarga la vida útil del equipo."},
+        {"t": "Prestá atención a las señales", "d": "Agua tibia, ruidos o agua turbia indican que el termotanque necesita mantenimiento."},
+        {"t": "No dejes pasar una pérdida", "d": "Resolverla rápido evita daños mayores en el equipo y en tu casa."},
+        {"t": "Dejá el gas en manos de un técnico", "d": "El piloto, el quemador y las válvulas tienen que revisarlos profesionales. Ante olor a gas, ventilá y no accionés interruptores."}
+      ]
+    },
+    "faqs": [
+      {"q": "¿Cómo sé si mi termotanque necesita una purga?", "a": "Si el agua sale tibia o fría, el equipo hace ruidos o el agua sale turbia o con mal olor, es probable que haya sedimentos acumulados en el tanque."},
+      {"q": "¿Cada cuánto conviene hacer el mantenimiento?", "a": "Recomendamos incluir la purga en un mantenimiento anual para que el termotanque funcione bien y dure más."},
+      {"q": "¿Cómo se paga el servicio?", "a": "En efectivo o por transferencia, con factura A o B. Todos los trabajos tienen garantía."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service, reparación y mantenimiento de termotanques a gas a domicilio en CABA y Zona Norte. Cambiamos termostatos, pilotos, válvulas de alivio y de seguridad, limpiamos o reemplazamos quemadores, reparamos pérdidas de agua y purgamos los sedimentos del tanque.",
+      "Si tu termotanque no calienta o pierde agua, escribinos por WhatsApp y un técnico va a tu casa en el día o dentro de las 24 h."
+    ]
+  },
+  {
+    "slug": "calefones",
+    "name": "Calefones",
+    "noun": "calefones",
+    "title": "Service y reparación de calefones a gas | MP Group",
+    "description": "Service y reparación de calefones a gas Longvie, Domec, Orbis y Volcán a domicilio en CABA y Zona Norte. Piloto, encendido, válvulas y pérdidas. ¡Consultá!",
+    "h1": "Service y reparación de calefones",
+    "lead": "Arreglamos cualquier falla de tu calefón a gas a domicilio en CABA y Zona Norte. El técnico va en el día o dentro de las 24 h con los repuestos.",
+    "heroImage": "2024_05_hero-calefon.webp",
+    "repairs": [
+      {"t": "Fugas de gas", "d": "Reparación de fugas y corrección de conexiones defectuosas."},
+      {"t": "Válvula de seguridad", "d": "Reparación o reemplazo de la válvula de seguridad."},
+      {"t": "Encendido y piloto", "d": "Solución de problemas de encendido y de llama piloto."},
+      {"t": "Cambio de piezas", "d": "Reemplazo de sensores, válvulas de gas y termocuplas dañadas."},
+      {"t": "Ajuste y calibración", "d": "Regulación de la temperatura del agua y del flujo de gas."},
+      {"t": "Pérdidas de agua", "d": "Reparación de fugas en la camisa o en las serpentinas."},
+      {"t": "Descalcificación", "d": "Limpieza y descalcificación de serpentinas."}
+    ],
+    "faults": [
+      {"t": "No enciende el piloto", "d": "Una causa frecuente es la termocupla.", "wa": "a mi calefón no le enciende el piloto"},
+      {"t": "Prende y se apaga", "d": "Puede deberse a un flujo de gas insuficiente o a una falla del termostato.", "wa": "mi calefón prende y se apaga"},
+      {"t": "No enciende al abrir la canilla", "d": "Suele ser el sistema de encendido electrónico.", "wa": "mi calefón no enciende al abrir la canilla"},
+      {"t": "Pierde agua", "d": "Una válvula defectuosa o una pérdida en la camisa o las serpentinas.", "wa": "mi calefón pierde agua"},
+      {"t": "Poca presión o calienta poco", "d": "El sarro en las serpentinas baja la presión y hace trabajar de más al equipo.", "wa": "mi calefón calienta poco o tiene poca presión"},
+      {"t": "Sigue encendido con la canilla cerrada", "d": "Es urgente: necesita un técnico de inmediato.", "wa": "mi calefón sigue encendido con la canilla cerrada"}
+    ],
+    "brands": ["Longvie", "Domec", "Orbis", "Volcán", "Ariston"],
+    "tips": {
+      "title": "Consejos para cuidar tu calefón",
+      "intro": "Un calefón a gas necesita mantenimiento y revisión periódica: es una cuestión de rendimiento, pero sobre todo de seguridad.",
+      "items": [
+        {"t": "Hacé una revisión periódica", "d": "Que un técnico revise válvulas y conexiones hace que el calefón funcione mejor, gaste menos y sea seguro."},
+        {"t": "Usá una temperatura moderada", "d": "No hace falta tener el selector al máximo: con una temperatura más baja ahorrás gas."},
+        {"t": "No convivas con un piloto que falla", "d": "Si el piloto no prende o se apaga, pedí la reparación: no intentes resolverlo por tu cuenta."},
+        {"t": "Atendé las pérdidas rápido", "d": "Una pérdida de agua chica puede terminar en daños mayores en tu casa."}
+      ]
+    },
+    "faqs": [
+      {"q": "¿Por qué no enciende el piloto de mi calefón?", "a": "Una de las causas más frecuentes es la termocupla, una pieza chica que controla el encendido del piloto. El técnico la diagnostica y la cambia si hace falta."},
+      {"q": "¿Qué hago si el calefón sigue encendido con la canilla cerrada?", "a": "Cerrá la llave de paso del gas, ventilá el ambiente, no prendas ni apagues interruptores eléctricos y escribinos o llamanos de inmediato."},
+      {"q": "Mi calefón Orbis de 14 litros no enciende, ¿tiene arreglo?", "a": "Sí. En ese modelo suele deberse al sistema de encendido electrónico, y lo resolvemos a domicilio."},
+      {"q": "¿En qué zonas trabajan?", "a": "En CABA y Zona Norte. El técnico va en el día o dentro de las 24 h y todos los trabajos tienen garantía."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de calefones a gas a domicilio en CABA y Zona Norte. Reparamos fugas, problemas de encendido y de llama piloto, válvulas de seguridad, termocuplas y sensores, y descalcificamos serpentinas de calefones Longvie, Domec, Orbis y Volcán, entre otros.",
+      "Un calefón que no enciende o que se apaga solo no es solo una incomodidad: también puede ser un riesgo. Escribinos por WhatsApp y coordinamos la visita de un técnico."
+    ]
+  },
+  {
+    "slug": "hornos-y-cocinas",
+    "name": "Hornos y cocinas",
+    "noun": "hornos y cocinas",
+    "title": "Reparación de hornos y cocinas a gas y eléctricos | MP Group",
+    "description": "Service y reparación de hornos y cocinas a gas y eléctricos de todas las marcas, a domicilio en CABA y Zona Norte. Técnicos con 20 años de experiencia.",
+    "h1": "Service y reparación de hornos y cocinas",
+    "lead": "Reparamos hornos y cocinas eléctricos y a gas a domicilio en CABA y Zona Norte. El técnico va en el día o dentro de las 24 h y lleva los repuestos.",
+    "heroImage": "2024_05_hero-hyc.webp",
+    "repairs": [
+      {"t": "Resistencias y quemadores", "d": "Solución de fallas en los elementos que calientan, en hornos eléctricos y a gas."},
+      {"t": "Termostatos", "d": "Reparación o cambio de termostatos defectuosos o descalibrados, para una temperatura pareja y precisa."},
+      {"t": "Sistemas de encendido", "d": "Reparación del encendido eléctrico o de piloto para que prenda rápido y bien."},
+      {"t": "Puertas y burletes", "d": "Arreglo de cierres y bisagras, y cambio de burletes gastados que dejan escapar el calor."},
+      {"t": "Paneles de control", "d": "Solución de fallas en paneles electrónicos: pantalla, botones que no responden o errores de programación."},
+      {"t": "Mantenimiento y limpieza", "d": "Limpieza profesional y mantenimiento preventivo para alargar la vida útil del equipo."}
+    ],
+    "faults": [
+      {"t": "El horno no calienta", "d": "Puede ser la resistencia, el quemador o el termostato.", "wa": "mi horno no calienta"},
+      {"t": "Cocina desparejo o no mantiene la temperatura", "d": "Suele ser un termostato descalibrado.", "wa": "mi horno no mantiene la temperatura"},
+      {"t": "No enciende", "d": "Una falla en el encendido eléctrico o en el piloto.", "wa": "mi horno o cocina no enciende"},
+      {"t": "La puerta no cierra bien", "d": "Bisagras flojas o burletes gastados que dejan escapar el calor.", "wa": "la puerta de mi horno no cierra bien"},
+      {"t": "El panel no responde", "d": "Problemas de pantalla, botones o programación en el panel electrónico.", "wa": "el panel de mi horno no responde"}
+    ],
+    "brands": ["Samsung", "Orbis", "LG", "Longvie", "General Electric", "Electrolux", "Domec", "Ariston", "Whirlpool"],
+    "tips": {
+      "title": "Consejos para cuidar tu horno y tu cocina",
+      "intro": "Con un poco de limpieza y algunos cuidados de seguridad, tu horno y tu cocina duran más y se usan sin riesgos.",
+      "items": [
+        {"t": "Limpiá después de cada uso", "d": "Así evitás que se acumulen grasa y restos. De vez en cuando, con todo apagado y frío, lavá las rejillas y las tapas de los quemadores con agua y jabón."},
+        {"t": "Cambiá los filtros", "d": "Si tu equipo tiene filtros, reemplazalos a tiempo: cuando se saturan de grasa traban el flujo de aire."},
+        {"t": "Dejá el gas y la electricidad a un técnico", "d": "La revisión de conexiones de gas, válvulas, cables y resistencias tiene que hacerla un profesional."},
+        {"t": "Cuidá a los chicos", "d": "Mantenelos lejos mientras cocinás y dejá las ollas y sartenes lejos del borde."},
+        {"t": "Usá guantes y utensilios adecuados", "d": "Guantes de cocina para mover recipientes calientes y utensilios largos y resistentes al calor."}
+      ]
+    },
+    "faqs": [
+      {"q": "¿Reparan hornos y cocinas eléctricos y a gas?", "a": "Sí. Reparamos hornos eléctricos, hornos a gas, cocinas eléctricas y cocinas a gas de todas las marcas."},
+      {"q": "Mi horno no calienta bien, ¿qué puede ser?", "a": "Lo más común es una falla en la resistencia o el quemador, o un termostato descalibrado. El técnico lo diagnostica y lo resuelve en la visita."},
+      {"q": "¿Hacen mantenimiento preventivo?", "a": "Sí. Revisamos los componentes, limpiamos y hacemos los ajustes necesarios para que el equipo dure más."},
+      {"q": "¿En cuánto tiempo viene el técnico?", "a": "En menos de 24 h, en CABA y Zona Norte, con los repuestos para resolver la falla."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de hornos y cocinas a gas y eléctricos a domicilio en CABA y Zona Norte. Reparamos resistencias, quemadores, termostatos, sistemas de encendido, puertas, burletes y paneles de control de marcas como Samsung, LG, Longvie, Orbis, Domec, Electrolux, General Electric y Ariston.",
+      "Contamos con técnicos capacitados, más de 20 años de experiencia y garantía en todos los trabajos. Escribinos por WhatsApp y contanos qué le pasa a tu horno o cocina."
+    ]
+  },
+  {
+    "slug": "estufas",
+    "name": "Estufas",
+    "noun": "estufas",
+    "title": "Service y reparación de estufas en CABA | MP Group",
+    "description": "¿Tu estufa dejó de calentar o no enciende? Service y reparación de estufas a domicilio en CABA y Zona Norte. Técnico en el día o dentro de las 24 h, con repuestos.",
+    "h1": "Service y reparación de estufas",
+    "lead": "Si tu estufa no enciende o dejó de calentar, un técnico va a tu casa en CABA o Zona Norte en el día o dentro de las 24 h para resolverlo con los repuestos.",
+    "heroImage": null,
+    "repairs": [
+      {"t": "Piloto y termocupla", "d": "Si el piloto no se mantiene encendido, revisamos y cambiamos la termocupla."},
+      {"t": "Encendido", "d": "Reparamos interruptores de encendido y sistemas de encendido electrónico."},
+      {"t": "Termostatos y válvulas", "d": "Diagnóstico y reparación de termostatos y válvulas de gas."},
+      {"t": "Limpieza de quemadores y conductos", "d": "Limpiamos quemadores, piloto y conductos para que la estufa encienda y caliente bien."},
+      {"t": "Sensor de oxígeno", "d": "En los modelos que lo tienen, lo limpiamos o lo cambiamos."},
+      {"t": "Juntas y paneles", "d": "Reemplazamos juntas y paneles gastados de estufas de tiro balanceado, que afectan la combustión."},
+      {"t": "Ventiladores y motores", "d": "Reparamos ventiladores, motores y correas cuando la estufa hace ruidos o no distribuye el calor."}
+    ],
+    "faults": [
+      {"t": "No enciende", "d": "Puede ser el interruptor, el termostato, el encendido electrónico o el suministro de gas.", "wa": "mi estufa no enciende"},
+      {"t": "Se apaga el piloto", "d": "Suele ser la termocupla.", "wa": "a mi estufa se le apaga el piloto"},
+      {"t": "No calienta lo suficiente", "d": "Un filtro de aire sucio, un ventilador con falla o un quemador obstruido.", "wa": "mi estufa no calienta lo suficiente"},
+      {"t": "La llama es amarilla", "d": "Indica mala combustión y puede ser peligroso. Apagala y llamá a un técnico.", "wa": "mi estufa tiene la llama amarilla"},
+      {"t": "Hace ruidos extraños", "d": "Silbidos o chasquidos pueden venir de un motor con falla o una correa floja.", "wa": "mi estufa hace ruidos extraños"}
+    ],
+    "brands": ["Orbis", "Domec", "Volcán", "Ariston"],
+    "tips": {
+      "title": "Consejos para usar tu estufa de forma segura",
+      "intro": "Una estufa bien mantenida calienta mejor, gasta menos y, sobre todo, es segura para tu casa.",
+      "items": [
+        {"t": "Revisala antes del invierno", "d": "Una inspección técnica anual, antes de la temporada de uso, previene fallas y riesgos."},
+        {"t": "Ventilá el ambiente", "d": "Las estufas a gas necesitan una ventilación adecuada para funcionar bien."},
+        {"t": "Alejala de lo inflamable", "d": "Nada de cortinas, papeles o muebles cerca: dejá espacio libre alrededor de la estufa."},
+        {"t": "No la dejes prendida sin nadie", "d": "Apagala antes de dormir o de salir, y poné una barrera si hay chicos o mascotas."},
+        {"t": "No tapes las salidas de aire", "d": "Una entrada de aire o una salida de gases obstruida afecta el encendido y la combustión."},
+        {"t": "Atendé los cambios", "d": "Si notás que calienta menos, hace ruidos o la llama cambia de color, apagala y escribinos."}
+      ]
+    },
+    "faqs": [
+      {"q": "Mi estufa de tiro balanceado no enciende, ¿qué reviso?", "a": "Fijate si los otros artefactos a gas de la casa funcionan, si la salida exterior no está tapada y, si tiene encendido electrónico, si las pilas están bien. Si sigue sin encender, no insistas: escribinos."},
+      {"q": "¿Qué significa que la llama sea amarilla?", "a": "Una llama amarilla en vez de azul indica mala combustión, y eso puede ser peligroso. Apagá la estufa, ventilá el ambiente y llamá a un técnico de inmediato."},
+      {"q": "¿Cada cuánto conviene hacerle un service?", "a": "Recomendamos una revisión completa por año, antes de la temporada de uso."},
+      {"q": "¿Cómo se paga?", "a": "En efectivo o por transferencia, con factura A o B. Todos los trabajos tienen garantía."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de estufas a domicilio en CABA y Zona Norte. Revisamos pilotos y termocuplas, sistemas de encendido, termostatos, válvulas, sensores de oxígeno, juntas y paneles de estufas de tiro balanceado, y limpiamos quemadores y conductos.",
+      "Una estufa en buen estado ahorra energía, cuida la calidad del aire de tu casa y previene accidentes. Escribinos por WhatsApp y coordinamos la revisión."
+    ]
+  },
+  {
+    "slug": "aire-acondicionado",
+    "name": "Aire acondicionado",
+    "noun": "aire acondicionado",
+    "title": "Service y reparación de aire acondicionado | MP Group",
+    "description": "Service y reparación de aires acondicionados split a domicilio en CABA y Zona Norte: carga de gas, plaquetas, limpieza e instalación. ¡Hacé tu consulta!",
+    "h1": "Service y reparación de aire acondicionado",
+    "lead": "Reparamos, limpiamos e instalamos tu aire acondicionado a domicilio en CABA y Zona Norte. El técnico va en el día o dentro de las 24 h con los repuestos.",
+    "heroImage": "2024_05_hero-aa2.webp",
+    "repairs": [
+      {"t": "Carga de gas", "d": "Chequeo de pérdidas de fluido refrigerante y carga de gas."},
+      {"t": "Plaquetas", "d": "Cambio de plaquetas electrónicas."},
+      {"t": "Pérdida de agua", "d": "Solución de goteo por la unidad interior."},
+      {"t": "Congelamiento", "d": "Reparación cuando se congela la unidad interior."},
+      {"t": "Unidad exterior", "d": "Diagnóstico y reparación cuando la unidad exterior no enciende."},
+      {"t": "Forzadores", "d": "Cambio, recambio o reparación de forzadores."},
+      {"t": "Instalación", "d": "Instalación o reinstalación de equipos split."},
+      {"t": "Limpieza y mantenimiento", "d": "Limpieza de filtros y revisión del sistema para que el equipo rinda y consuma menos."}
+    ],
+    "faults": [
+      {"t": "No enfría", "d": "Puede faltar refrigerante por una pérdida, o haber una falla en el compresor.", "wa": "mi aire acondicionado no enfría"},
+      {"t": "Gotea agua", "d": "Pérdida de agua por la unidad interior.", "wa": "mi aire acondicionado gotea agua"},
+      {"t": "Se congela la unidad interior", "d": "Conviene apagarlo y pedir una revisión.", "wa": "se congela la unidad interior de mi aire"},
+      {"t": "No enciende la unidad exterior", "d": "Puede ser la plaqueta, el forzador u otra falla eléctrica.", "wa": "no enciende la unidad exterior de mi aire"},
+      {"t": "Hace ruidos o tiene olor", "d": "Piezas gastadas o sueltas, filtros obstruidos o problemas en el drenaje.", "wa": "mi aire acondicionado hace ruidos o tiene olor"},
+      {"t": "No mantiene la temperatura", "d": "Puede ser un termostato con falla.", "wa": "mi aire acondicionado no mantiene la temperatura"}
+    ],
+    "brands": ["Samsung", "LG", "Surrey", "Carrier", "BGH", "Electrolux", "Philco", "Sanyo", "Zenith", "Electra"],
+    "tips": {
+      "title": "Consejos para cuidar tu aire acondicionado",
+      "intro": "Un equipo bien mantenido enfría mejor, dura más y consume menos energía.",
+      "items": [
+        {"t": "Limpiá los filtros una vez por mes", "d": "Con el equipo apagado. Un filtro sucio reduce el flujo de aire y la eficiencia."},
+        {"t": "Usá una temperatura constante", "d": "Unos 22 °C es una temperatura cómoda que no consume de más. Evitá cambiarla todo el tiempo."},
+        {"t": "Cerrá puertas y ventanas", "d": "Así el aire fresco no se escapa y el equipo no trabaja de más."},
+        {"t": "Sumá un ventilador", "d": "Un ventilador de techo o de pie mejora la circulación y alivia al aire acondicionado."},
+        {"t": "Hacé un mantenimiento por año", "d": "Incluye limpieza de filtros, revisión del refrigerante y de las piezas móviles."},
+        {"t": "Mirá la factura de luz", "d": "Si sube sin motivo, el equipo puede estar funcionando mal y necesitar un service."}
+      ]
+    },
+    "faqs": [
+      {"q": "Mi aire no enfría, ¿le falta gas?", "a": "Puede ser. Si le falta refrigerante es porque hay una pérdida: el técnico la busca, la repara y hace la carga de gas. También puede ser una falla del compresor o los filtros sucios."},
+      {"q": "¿Cada cuánto hay que hacer el mantenimiento?", "a": "Al menos una vez por año, además de limpiar los filtros todos los meses en temporada de uso."},
+      {"q": "¿Hacen instalaciones?", "a": "Sí. Hacemos instalación y reinstalación de equipos split."},
+      {"q": "¿Cómo se paga?", "a": "En efectivo o por transferencia, con factura A o B. Todos los trabajos tienen garantía."}
+    ],
+    "seoText": [
+      "En MP Group hacemos service y reparación de aires acondicionados split a domicilio en CABA y Zona Norte: carga de gas, búsqueda de pérdidas de refrigerante, cambio de plaquetas y forzadores, limpieza, mantenimiento e instalación. Trabajamos con Samsung, LG, Surrey, Carrier, BGH, Electrolux, Philco, Sanyo, Zenith y Electra.",
+      "Si tu aire no enfría, gotea o hace ruido, escribinos por WhatsApp y coordinamos la visita de un técnico."
+    ]
+  }
+]

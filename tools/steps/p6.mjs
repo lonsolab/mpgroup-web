@@ -1,0 +1,22 @@
+const path = (a, b, n = 8) => Array.from({ length: n }, (_, i) => [Math.round(a[0] + (b[0] - a[0]) * (i + 1) / n), Math.round(a[1] + (b[1] - a[1]) * (i + 1) / n)]);
+export default [
+  { init: `window.__err=[];addEventListener('error',e=>__err.push(e.message));try{sessionStorage.clear()}catch(e){}` },
+  { eval: `location.reload();return 1` },
+  { wait: 800 },
+  { mouse: path([300, 300], [500, 420]) },
+  { wait: 3600 },
+  { shot: 'p6-01-tuerca-intro.png', clip: { x: 1000, y: 600, width: 440, height: 300 } },
+  { wait: 7000 },
+  { shot: 'p6-02-tuerca-min.png', clip: { x: 1000, y: 600, width: 440, height: 300 } },
+  { shot: 'p6-03-campos.png', clip: { x: 760, y: 120, width: 640, height: 560 } },
+  { eval: `document.getElementById('bt-t').scrollIntoView({block:'start'});return 1` },
+  { wait: 1200 },
+  { eval: `const r=document.querySelector('.b-visit').getBoundingClientRect();return [r.left,r.top,r.width,r.height].map(Math.round)` },
+  { shot: 'p6-04-bento-antes.png' },
+  { mouse: path([700, 120], [1000, 250]) },
+  { wait: 2200 },
+  { shot: 'p6-05-bento-llego.png' },
+  { eval: `document.getElementById('mk-t').scrollIntoView({block:'start'});const a=getComputedStyle(document.querySelector('.brand-run-track')).transform;await new Promise(r=>setTimeout(r,1500));const b=getComputedStyle(document.querySelector('.brand-run-track')).transform;return {err:__err, marcasSeMueven: a!==b, reduce: matchMedia('(prefers-reduced-motion: reduce)').matches}` },
+  { mouse: path([700, 50], [700, 60], 2) },
+  { shot: 'p6-06-marcas.png' },
+];

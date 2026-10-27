@@ -1,0 +1,21 @@
+const path = (a, b, n = 8) => Array.from({ length: n }, (_, i) => [Math.round(a[0] + (b[0] - a[0]) * (i + 1) / n), Math.round(a[1] + (b[1] - a[1]) * (i + 1) / n)]);
+export default [
+  { init: `window.__err=[];addEventListener('error',e=>__err.push(e.message));` },
+  { eval: `location.reload();return 1` },
+  { wait: 900 },
+  { mouse: path([300, 300], [500, 420]) },
+  { wait: 900 },
+  { eval: `document.getElementById('rv-t').scrollIntoView({block:'start'});return 1` },
+  { wait: 1400 },
+  { mouse: path([500, 120], [1300, 70], 6) },
+  { wait: 900 },
+  { shot: 'p6b-01-resenas.png' },
+  { eval: `document.querySelector('.section--process').scrollIntoView({block:'start'});return 1` },
+  { wait: 900 },
+  { mouse: path([600, 700], [640, 760], 4) },
+  { wait: 900 },
+  { shot: 'p6b-02-oscuro.png' },
+  { eval: `const s=document.querySelector('.cta [data-status]');s&&s.scrollIntoView({block:'center'});return {err:__err, xray: document.querySelectorAll('[data-xray],.fx-lens').length, status: s&&s.textContent}` },
+  { wait: 800 },
+  { shot: 'p6b-03-cta.png' },
+];

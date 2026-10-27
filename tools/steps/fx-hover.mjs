@@ -1,0 +1,23 @@
+const path = (a, b, n = 6) => Array.from({ length: n }, (_, i) => [Math.round(a[0] + (b[0] - a[0]) * (i + 1) / n), Math.round(a[1] + (b[1] - a[1]) * (i + 1) / n)]);
+export default [
+  { wait: 800 },
+  { mouse: path([1000, 300], [1240, 76]) },
+  { wait: 500 },
+  { shot: 'fx-07-cursor-wa.png', clip: { x: 980, y: 0, width: 460, height: 160 } },
+  { eval: `document.querySelector('.process-photo').scrollIntoView({block:'center'});return 1` },
+  { wait: 4500 },
+  { mouse: path([700, 450], [330, 470], 8) },
+  { wait: 900 },
+  { shot: 'fx-08-lens.png' },
+  { eval: `document.getElementById('bl-t').scrollIntoView({block:'start'});return 1` },
+  { wait: 900 },
+  { eval: `const c=document.querySelector('.posts .post-card');const r=c.getBoundingClientRect();return [r.left,r.top,r.width,r.height].map(Math.round)` },
+  { mouse: path([700, 800], [330, 330], 8) },
+  { wait: 700 },
+  { shot: 'fx-09-tilt.png' },
+  { eval: `window.scrollTo(0, document.documentElement.scrollHeight); return 1` },
+  { wait: 1200 },
+  { mouse: path([300, 700], [560, 820], 8) },
+  { wait: 1200 },
+  { shot: 'fx-10-footer.png' },
+];
